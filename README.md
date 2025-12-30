@@ -6,6 +6,8 @@ A curriculum planning tool that:
 3) Cleans and enriches the graph (filters irrelevant subjects, fixes bad edges, adds complexity scores)  
 4) Generates a personalized 4 year plan based on goals, interests, workload preference, and prerequisites
 
+### P.S. Use the .pkl given above to upload when asked to upload .pkl file in the Web UI
+
 This repo is intended to be a practical, runnable code sample (not a notebook).
 
 ## What this project does
