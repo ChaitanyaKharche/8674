@@ -1,0 +1,45 @@
+{
+  "pipeline_overview": {
+    "status": "running",
+    "term_analyzed": "202510",
+    "subjects_included": [
+      "CS",
+      "DS",
+      "IS",
+      "CY"
+    ],
+    "execution_timestamp": "unknown"
+  },
+  "data_collection": {
+    "courses_scraped": 245,
+    "enhancement_features_count": 5,
+    "data_quality": "high"
+  },
+  "analysis_insights": {
+    "curriculum_validity": true,
+    "complexity_algorithm": "hybrid_traditional_semantic_personalized",
+    "personalization_ready": true
+  },
+  "optimization_outcomes": {
+    "students_optimized": 3,
+    "optimization_objectives": 4,
+    "average_confidence": 0.87,
+    "personalization_factors": 4
+  },
+  "competitive_advantages": [
+    "Real-time curriculum data integration",
+    "Hybrid complexity analysis (traditional + semantic + personal)",
+    "Multi-objective optimization",
+    "Personalized difficulty prediction",
+    "Career-aligned pathway generation",
+    "Semantic course content understanding"
+  ],
+  "technical_innovations": [
+    "GraphQL API integration for live data",
+    "NetworkX graph analysis with enhanced algorithms",
+    "LLM-based semantic course analysis",
+    "Multi-dimensional complexity scoring",
+    "Constraint satisfaction for degree planning",
+    "Personalized learning pathway optimization"
+  ]
+}

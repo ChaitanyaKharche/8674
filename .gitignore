@@ -1,0 +1,34 @@
+@'
+# Ignore everything by default
+*
+
+# Allow only these
+!frontend/
+!backend/
+!PROJECT_DOCUMENTATION.txt
+!requirements.txt
+!.gitignore
+
+# Allow contents inside allowed folders
+!frontend/**
+!backend/**
+
+# Common junk inside allowed folders
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.DS_Store
+
+frontend/node_modules/
+frontend/.next/
+frontend/dist/
+frontend/build/
+frontend/.cache/
+
+backend/.env
+backend/.env.*
+backend/venv/
+backend/.venv/
+'@ | Set-Content .gitignore -Encoding utf8

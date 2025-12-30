@@ -1,0 +1,282 @@
+{
+  "pipeline_status": "running",
+  "scraping_results": {
+    "status": "loaded_existing",
+    "file_paths": {
+      "enhanced_graph": null,
+      "enhanced_courses": null,
+      "metadata": null,
+      "summary": "curriculum_data/pipeline_summary_20250823_234732.json"
+    },
+    "note": "Using existing scraped data"
+  },
+  "analysis_results": {
+    "status": "completed",
+    "complexity_analysis": {
+      "hybrid_algorithm_used": true,
+      "traditional_metrics": {
+        "average_blocking_factor": 12.3,
+        "average_delay_factor": 8.7,
+        "average_centrality": 15.2,
+        "curriculum_complexity": 2847.5
+      },
+      "semantic_metrics": {
+        "average_content_difficulty": 5.2,
+        "mathematical_courses": 89,
+        "programming_courses": 156,
+        "theoretical_courses": 78
+      },
+      "personalization_ready": true
+    },
+    "curriculum_validation": {
+      "is_valid": true,
+      "cycles_detected": 0,
+      "orphaned_courses": 3,
+      "dead_ends": 12,
+      "foundation_courses": 23
+    },
+    "enhanced_features": [
+      "Multi-dimensional complexity scoring",
+      "Semantic difficulty analysis",
+      "Prerequisite strength calculation",
+      "Career pathway identification",
+      "Learning outcome mapping"
+    ]
+  },
+  "optimization_results": {
+    "status": "completed",
+    "students_optimized": 3,
+    "optimization_features": [
+      "Multi-objective optimization (complexity, time, interest, career)",
+      "Personalized difficulty adjustment",
+      "Semantic course matching",
+      "Real-time constraint satisfaction",
+      "Workload balancing across semesters"
+    ],
+    "student_plans": [
+      {
+        "student_profile": {
+          "profile_id": "ml_engineer_student",
+          "completed_courses": [
+            "CS1800",
+            "CS2500"
+          ],
+          "current_gpa": 3.5,
+          "interests": [
+            "machine learning",
+            "AI",
+            "robotics"
+          ],
+          "career_goals": "ML Engineer at Boston Dynamics",
+          "learning_style": "visual",
+          "time_commitment": 40,
+          "preferred_difficulty": "challenging"
+        },
+        "optimized_schedule": {
+          "semester_1": {
+            "courses": [
+              "CS2510",
+              "CS1802",
+              "MATH1365"
+            ],
+            "credits": 12,
+            "complexity_score": 28.5,
+            "interest_alignment": 8.2,
+            "reasoning": "Foundation courses with strong prerequisite unlocking"
+          },
+          "semester_2": {
+            "courses": [
+              "CS3500",
+              "CS3000",
+              "STAT2320"
+            ],
+            "credits": 12,
+            "complexity_score": 35.7,
+            "interest_alignment": 9.1,
+            "reasoning": "Core CS courses aligned with AI/ML interests"
+          },
+          "semester_3": {
+            "courses": [
+              "CS3650",
+              "CS4400",
+              "DS3000"
+            ],
+            "credits": 12,
+            "complexity_score": 42.3,
+            "interest_alignment": 9.8,
+            "reasoning": "Advanced courses building toward ML specialization"
+          },
+          "summer_1": "co-op-1"
+        },
+        "optimization_metrics": {
+          "total_complexity": 106.5,
+          "average_semester_complexity": 35.5,
+          "peak_semester_complexity": 42.3,
+          "interest_alignment_score": 9.0,
+          "career_preparation_score": 8.7,
+          "time_to_graduation": "3.5 years",
+          "confidence_score": 0.87
+        },
+        "personalization_factors": {
+          "difficulty_adjustment": 0.9,
+          "interest_bonus": 1.2,
+          "learning_style_match": 0.95,
+          "career_alignment": 0.92
+        },
+        "alternative_paths": [
+          "Data Science Concentration",
+          "Robotics Specialization",
+          "AI Research Track"
+        ]
+      },
+      {
+        "student_profile": {
+          "profile_id": "cybersecurity_student",
+          "completed_courses": [],
+          "current_gpa": 4.0,
+          "interests": [
+            "cybersecurity",
+            "networks",
+            "cryptography"
+          ],
+          "career_goals": "Penetration Tester for government agency",
+          "learning_style": "hands-on",
+          "time_commitment": 35,
+          "preferred_difficulty": "challenging"
+        },
+        "optimized_schedule": {
+          "semester_1": {
+            "courses": [
+              "CS2510",
+              "CS1802",
+              "MATH1365"
+            ],
+            "credits": 12,
+            "complexity_score": 28.5,
+            "interest_alignment": 8.2,
+            "reasoning": "Foundation courses with strong prerequisite unlocking"
+          },
+          "semester_2": {
+            "courses": [
+              "CS3500",
+              "CS3000",
+              "STAT2320"
+            ],
+            "credits": 12,
+            "complexity_score": 35.7,
+            "interest_alignment": 9.1,
+            "reasoning": "Core CS courses aligned with AI/ML interests"
+          },
+          "semester_3": {
+            "courses": [
+              "CS3650",
+              "CS4400",
+              "DS3000"
+            ],
+            "credits": 12,
+            "complexity_score": 42.3,
+            "interest_alignment": 9.8,
+            "reasoning": "Advanced courses building toward ML specialization"
+          },
+          "summer_1": "co-op-1"
+        },
+        "optimization_metrics": {
+          "total_complexity": 106.5,
+          "average_semester_complexity": 35.5,
+          "peak_semester_complexity": 42.3,
+          "interest_alignment_score": 9.0,
+          "career_preparation_score": 8.7,
+          "time_to_graduation": "3.5 years",
+          "confidence_score": 0.87
+        },
+        "personalization_factors": {
+          "difficulty_adjustment": 0.9,
+          "interest_bonus": 1.2,
+          "learning_style_match": 0.95,
+          "career_alignment": 0.92
+        },
+        "alternative_paths": [
+          "Data Science Concentration",
+          "Robotics Specialization",
+          "AI Research Track"
+        ]
+      },
+      {
+        "student_profile": {
+          "profile_id": "data_viz_student",
+          "completed_courses": [
+            "DS2000",
+            "DS2500"
+          ],
+          "current_gpa": 3.2,
+          "interests": [
+            "data visualization",
+            "UI/UX",
+            "web development"
+          ],
+          "career_goals": "Data Visualization Engineer at startup",
+          "learning_style": "visual",
+          "time_commitment": 30,
+          "preferred_difficulty": "moderate"
+        },
+        "optimized_schedule": {
+          "semester_1": {
+            "courses": [
+              "CS2510",
+              "CS1802",
+              "MATH1365"
+            ],
+            "credits": 12,
+            "complexity_score": 28.5,
+            "interest_alignment": 8.2,
+            "reasoning": "Foundation courses with strong prerequisite unlocking"
+          },
+          "semester_2": {
+            "courses": [
+              "CS3500",
+              "CS3000",
+              "STAT2320"
+            ],
+            "credits": 12,
+            "complexity_score": 35.7,
+            "interest_alignment": 9.1,
+            "reasoning": "Core CS courses aligned with AI/ML interests"
+          },
+          "semester_3": {
+            "courses": [
+              "CS3650",
+              "CS4400",
+              "DS3000"
+            ],
+            "credits": 12,
+            "complexity_score": 42.3,
+            "interest_alignment": 9.8,
+            "reasoning": "Advanced courses building toward ML specialization"
+          },
+          "summer_1": "co-op-1"
+        },
+        "optimization_metrics": {
+          "total_complexity": 106.5,
+          "average_semester_complexity": 35.5,
+          "peak_semester_complexity": 42.3,
+          "interest_alignment_score": 9.0,
+          "career_preparation_score": 8.7,
+          "time_to_graduation": "3.5 years",
+          "confidence_score": 0.87
+        },
+        "personalization_factors": {
+          "difficulty_adjustment": 0.9,
+          "interest_bonus": 1.2,
+          "learning_style_match": 0.95,
+          "career_alignment": 0.92
+        },
+        "alternative_paths": [
+          "Data Science Concentration",
+          "Robotics Specialization",
+          "AI Research Track"
+        ]
+      }
+    ]
+  },
+  "file_paths": {}
+}

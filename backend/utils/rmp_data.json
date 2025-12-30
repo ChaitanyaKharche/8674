@@ -1,0 +1,7193 @@
+{
+  "John Choi": {
+    "id": 1935746,
+    "name": "John Strid",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 40,
+    "department": "English"
+  },
+  "Gina Bouchard": {
+    "id": 2020235,
+    "name": "Gina Torcasso",
+    "avgRating": 4.5,
+    "avgDifficulty": 4,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Psychology"
+  },
+  "Matthew Carroll": {
+    "id": 1340328,
+    "name": "Matthew Wiesner",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.1,
+    "numRatings": 14,
+    "wouldTakeAgain": 0,
+    "department": "Physics"
+  },
+  "Jody Santos": {
+    "id": 2028418,
+    "name": "Cristine Santos",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Communication Disorders"
+  },
+  "Frances McSherry": {
+    "id": 59340,
+    "name": "Frances Jaeger",
+    "avgRating": 3.9,
+    "avgDifficulty": 3.4,
+    "numRatings": 42,
+    "wouldTakeAgain": 76.9231,
+    "department": "Languages"
+  },
+  "Sumi Seo": {
+    "found": false
+  },
+  "Steven Granelli": {
+    "id": 2882160,
+    "name": "Steven Bjork",
+    "avgRating": 5,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Education"
+  },
+  "Mahsan Nourani": {
+    "found": false
+  },
+  "Nikolaos Soukos": {
+    "found": false
+  },
+  "Marcus Sherman": {
+    "found": false
+  },
+  "Hung-Yi Ly": {
+    "id": 2444106,
+    "name": "LYNN DYKSTRA",
+    "avgRating": 5,
+    "avgDifficulty": 1.8,
+    "numRatings": 6,
+    "wouldTakeAgain": 100,
+    "department": "Nursing"
+  },
+  "Lace Padilla": {
+    "id": 2053783,
+    "name": "Jeanne  Padilla",
+    "avgRating": 2.6,
+    "avgDifficulty": 3.7,
+    "numRatings": 28,
+    "wouldTakeAgain": 45.8333,
+    "department": "Mathematics"
+  },
+  "Gorka Basterretxea Santiso": {
+    "found": false
+  },
+  "Olga Vitek": {
+    "id": 2904691,
+    "name": "Olga Smirnow",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 1,
+    "wouldTakeAgain": 0,
+    "department": "Social Science"
+  },
+  "Benjamin Knudsen": {
+    "id": 3000188,
+    "name": "Ben Zandi",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Engineering"
+  },
+  "Maryam Farahmand Asil": {
+    "found": false
+  },
+  "Sean Larmore": {
+    "id": 1932941,
+    "name": "Sean McIlrath",
+    "avgRating": 4.5,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Chemistry"
+  },
+  "Cody Scott": {
+    "id": 1647309,
+    "name": "Cody Happ",
+    "avgRating": 4.5,
+    "avgDifficulty": 2.7,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "Language Studies"
+  },
+  "Jonathan Carr": {
+    "id": 1166296,
+    "name": "Jonathan Meshes",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "Said Amal": {
+    "id": 356785,
+    "name": "Said Oucheriah",
+    "avgRating": 2.9,
+    "avgDifficulty": 4.2,
+    "numRatings": 13,
+    "wouldTakeAgain": -1,
+    "department": "Engineering"
+  },
+  "Martha Johnson": {
+    "id": 217004,
+    "name": "Martha O'Gorman",
+    "avgRating": 3.3,
+    "avgDifficulty": 3.6,
+    "numRatings": 5,
+    "wouldTakeAgain": -1,
+    "department": "Nutrition & Foods"
+  },
+  "Luigi Angelini": {
+    "found": false
+  },
+  "Melinda Fowler": {
+    "found": false
+  },
+  "Xiang Zhi Tan": {
+    "id": 2317856,
+    "name": "Jifu Tan",
+    "avgRating": 2.2,
+    "avgDifficulty": 4.4,
+    "numRatings": 26,
+    "wouldTakeAgain": 26.9231,
+    "department": "Engineering"
+  },
+  "William Robertson": {
+    "id": 2547659,
+    "name": "William O'Conner",
+    "avgRating": 4.3,
+    "avgDifficulty": 3.1,
+    "numRatings": 11,
+    "wouldTakeAgain": 81.8182,
+    "department": "Mathematics"
+  },
+  "Nadia Kyeremeh": {
+    "found": false
+  },
+  "Emmanuel Osorno": {
+    "found": false
+  },
+  "John Rachlin": {
+    "id": 1935746,
+    "name": "John Strid",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 40,
+    "department": "English"
+  },
+  "Edward Miller": {
+    "id": 501981,
+    "name": "Edward Callary",
+    "avgRating": 3.3,
+    "avgDifficulty": 3.2,
+    "numRatings": 27,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Caitlin Smith Rapoport": {
+    "id": 2084984,
+    "name": "Caitlin Pinciotti",
+    "avgRating": 3.8,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Psychology"
+  },
+  "Anne Hughes": {
+    "id": 236425,
+    "name": "Anne Britt",
+    "avgRating": 3.7,
+    "avgDifficulty": 3.8,
+    "numRatings": 72,
+    "wouldTakeAgain": 64,
+    "department": "Psychology"
+  },
+  "James Chafel": {
+    "id": 2110856,
+    "name": "James Cohen",
+    "avgRating": 3.5,
+    "avgDifficulty": 2.6,
+    "numRatings": 14,
+    "wouldTakeAgain": 57.1429,
+    "department": "Education"
+  },
+  "Eileen Otis": {
+    "found": false
+  },
+  "Hunter Dinkins": {
+    "id": 598443,
+    "name": "Jeanna Hunter",
+    "avgRating": 3,
+    "avgDifficulty": 4.7,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "Law"
+  },
+  "Diptendu Kar": {
+    "id": 1914070,
+    "name": "Karah Osterberg",
+    "avgRating": 3.9,
+    "avgDifficulty": 3,
+    "numRatings": 68,
+    "wouldTakeAgain": 81.25,
+    "department": "Business"
+  },
+  "John Alexis Guerra Gomez": {
+    "id": 1747575,
+    "name": "Clifford Alexis",
+    "avgRating": 5,
+    "avgDifficulty": 5,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Music"
+  },
+  "Heather Paterson": {
+    "id": 2337717,
+    "name": "Heather Walder",
+    "avgRating": 4.7,
+    "avgDifficulty": 2.7,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Anthropology"
+  },
+  "Karl Ni": {
+    "id": 3122451,
+    "name": "Nazia   Nisa",
+    "avgRating": 2,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": 0,
+    "department": "English"
+  },
+  "Rasika Bhalerao": {
+    "found": false
+  },
+  "Miguel Fuentes-Cabrera": {
+    "id": 2827401,
+    "name": "Edward Miguel",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Engineering"
+  },
+  "Andrew Gillen": {
+    "id": 3096554,
+    "name": "Andrew Ledoan",
+    "avgRating": 4,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Mathematics"
+  },
+  "Kelsey Costa": {
+    "found": false
+  },
+  "Corey Fereday": {
+    "id": 1969664,
+    "name": "Corey Rolling",
+    "avgRating": 2.5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Physical Education"
+  },
+  "Patrick Jones": {
+    "id": 2856909,
+    "name": "Patrick Lindsey",
+    "avgRating": 2.5,
+    "avgDifficulty": 3,
+    "numRatings": 2,
+    "wouldTakeAgain": 50,
+    "department": "English"
+  },
+  "Ayushi Shirke": {
+    "found": false
+  },
+  "Alexander Gonzalez": {
+    "id": 1114000,
+    "name": "Alex Lee",
+    "avgRating": 4.8,
+    "avgDifficulty": 2.2,
+    "numRatings": 30,
+    "wouldTakeAgain": -1,
+    "department": "Physics"
+  },
+  "Devaun Bovell": {
+    "found": false
+  },
+  "Solomon Jekel": {
+    "found": false
+  },
+  "Steven Koski": {
+    "id": 2882160,
+    "name": "Steven Bjork",
+    "avgRating": 5,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Education"
+  },
+  "Iraklis Tsekourakis": {
+    "found": false
+  },
+  "Elizabeth LaPides": {
+    "id": 2454619,
+    "name": "Elizabeth Duhn",
+    "avgRating": 5,
+    "avgDifficulty": 3,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Nursing"
+  },
+  "Netanel Drori": {
+    "found": false
+  },
+  "Amanda Smith": {
+    "id": 2671735,
+    "name": "Amanda Muteteke",
+    "avgRating": 5,
+    "avgDifficulty": 4,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Mathematics"
+  },
+  "Bolor Amgalan": {
+    "found": false
+  },
+  "Diviya Ray": {
+    "id": 2053077,
+    "name": "Raymundo Munguia-Vazquez",
+    "avgRating": 4.5,
+    "avgDifficulty": 3,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Communication Disorders"
+  },
+  "Dakuo Wang": {
+    "id": 921554,
+    "name": "Shei Chau Wang",
+    "avgRating": 3.4,
+    "avgDifficulty": 4.1,
+    "numRatings": 13,
+    "wouldTakeAgain": 60,
+    "department": "Fine Arts"
+  },
+  "Katharina Hecht": {
+    "id": 252983,
+    "name": "Loren Hecht",
+    "avgRating": 4.6,
+    "avgDifficulty": 1.6,
+    "numRatings": 80,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Kelliann Henry": {
+    "id": 2713661,
+    "name": "Henry Balani",
+    "avgRating": 3,
+    "avgDifficulty": 3.3,
+    "numRatings": 3,
+    "wouldTakeAgain": 66.6667,
+    "department": "Business"
+  },
+  "Jahziel Chase": {
+    "id": 1227352,
+    "name": "Chase Budziak",
+    "avgRating": 4.8,
+    "avgDifficulty": 1.6,
+    "numRatings": 7,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Charles Haycook": {
+    "id": 2368537,
+    "name": "Charles Pudrith",
+    "avgRating": 1.8,
+    "avgDifficulty": 3.8,
+    "numRatings": 12,
+    "wouldTakeAgain": 16.6667,
+    "department": "Communication Disorders"
+  },
+  "Saiph Savage": {
+    "found": false
+  },
+  "Rebecca Riccio": {
+    "id": 181901,
+    "name": "Rebecca Houze",
+    "avgRating": 3.9,
+    "avgDifficulty": 2.3,
+    "numRatings": 28,
+    "wouldTakeAgain": 100,
+    "department": "Fine Arts"
+  },
+  "Kledia Spiro": {
+    "found": false
+  },
+  "Jennifer Ross": {
+    "id": 3043130,
+    "name": "Jennifer Ross",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "Health & Human Services"
+  },
+  "Carter Ithier": {
+    "id": 2127526,
+    "name": "Anthony Carter",
+    "avgRating": 3.5,
+    "avgDifficulty": 1.3,
+    "numRatings": 3,
+    "wouldTakeAgain": 0,
+    "department": "Athletic Training"
+  },
+  "Mary-Susan Potts-Santone": {
+    "found": false
+  },
+  "Sabrina Barbaro": {
+    "found": false
+  },
+  "Maitraye Das": {
+    "id": 1479741,
+    "name": "Steven Daskal",
+    "avgRating": 4.8,
+    "avgDifficulty": 2,
+    "numRatings": 15,
+    "wouldTakeAgain": 100,
+    "department": "Philosophy"
+  },
+  "Kamila Kehoe": {
+    "found": false
+  },
+  "Alina Marian": {
+    "id": 3119191,
+    "name": "Mariana Ricklefs",
+    "avgRating": 1,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": 0,
+    "department": "Education"
+  },
+  "Xia Xiao": {
+    "id": 2509134,
+    "name": "Ting Xia",
+    "avgRating": 2.7,
+    "avgDifficulty": 3.3,
+    "numRatings": 7,
+    "wouldTakeAgain": 57.1429,
+    "department": "Engineering"
+  },
+  "Richard Cobbe": {
+    "id": 2085944,
+    "name": "Rich Grund",
+    "avgRating": 3.9,
+    "avgDifficulty": 2.7,
+    "numRatings": 10,
+    "wouldTakeAgain": 80,
+    "department": "Art"
+  },
+  "Mary Carney": {
+    "id": 181911,
+    "name": "Mary Cozad",
+    "avgRating": 3.8,
+    "avgDifficulty": 2.1,
+    "numRatings": 24,
+    "wouldTakeAgain": 57.1429,
+    "department": "Languages"
+  },
+  "Aarti Sathyanarayana": {
+    "found": false
+  },
+  "Jamal Thorne": {
+    "found": false
+  },
+  "Timothy Bickmore": {
+    "id": 1447249,
+    "name": "Timothy Hagen",
+    "avgRating": 4.5,
+    "avgDifficulty": 3,
+    "numRatings": 26,
+    "wouldTakeAgain": 80,
+    "department": "Chemistry"
+  },
+  "Nicole Guidotti-Hernandez": {
+    "id": 1817395,
+    "name": "Nicole Autry",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Joshua Griffiths": {
+    "id": 2669721,
+    "name": "Joshua Boley",
+    "avgRating": 1.5,
+    "avgDifficulty": 4.3,
+    "numRatings": 4,
+    "wouldTakeAgain": 25,
+    "department": "Computer Science"
+  },
+  "Lucia Nunez": {
+    "id": 1184753,
+    "name": "Lucia Matos",
+    "avgRating": 4.1,
+    "avgDifficulty": 1.8,
+    "numRatings": 13,
+    "wouldTakeAgain": 100,
+    "department": "Music"
+  },
+  "Christopher Martens": {
+    "id": 2192322,
+    "name": "Christopher Lapeyre",
+    "avgRating": 1.7,
+    "avgDifficulty": 4,
+    "numRatings": 3,
+    "wouldTakeAgain": 0,
+    "department": "English"
+  },
+  "Logan Schmidt": {
+    "id": 1360810,
+    "name": "James Schmidt",
+    "avgRating": 3.8,
+    "avgDifficulty": 2.7,
+    "numRatings": 6,
+    "wouldTakeAgain": 100,
+    "department": "History"
+  },
+  "Ibrahim Almetwale": {
+    "id": 37659,
+    "name": "Ibrahim Abdel-Motaleb",
+    "avgRating": 2.6,
+    "avgDifficulty": 3.3,
+    "numRatings": 28,
+    "wouldTakeAgain": 14.2857,
+    "department": "Engineering"
+  },
+  "Kristiana Ramos": {
+    "found": false
+  },
+  "Tamara Bonaci": {
+    "id": 190171,
+    "name": "Tamara Phelan",
+    "avgRating": 3.1,
+    "avgDifficulty": 2.6,
+    "numRatings": 42,
+    "wouldTakeAgain": 28.5714,
+    "department": "Accounting"
+  },
+  "Erica Sands": {
+    "id": 2853413,
+    "name": "Erica Fenton",
+    "avgRating": 5,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Communication Disorders"
+  },
+  "Guy Bellino": {
+    "found": false
+  },
+  "Taylor Chelo": {
+    "id": 1574922,
+    "name": "Shannon Taylor",
+    "avgRating": 4.7,
+    "avgDifficulty": 2,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "Management"
+  },
+  "Kevin Fu": {
+    "id": 2623157,
+    "name": "Kevin Shryock",
+    "avgRating": 2.3,
+    "avgDifficulty": 4.1,
+    "numRatings": 16,
+    "wouldTakeAgain": 31.25,
+    "department": "Mathematics"
+  },
+  "Alejna Brugos": {
+    "found": false
+  },
+  "Cristian Penarrieta": {
+    "found": false
+  },
+  "Taskin Padir": {
+    "found": false
+  },
+  "Aliska Gibbins": {
+    "found": false
+  },
+  "Bob De Schutter": {
+    "id": 253266,
+    "name": "Bob Walsh",
+    "avgRating": 4.9,
+    "avgDifficulty": 2.1,
+    "numRatings": 8,
+    "wouldTakeAgain": -1,
+    "department": "Languages"
+  },
+  "Valerie Sencabaugh": {
+    "id": 479416,
+    "name": "Valerie Guyant",
+    "avgRating": 4.4,
+    "avgDifficulty": 1.7,
+    "numRatings": 10,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Claire Boeing-Reicher": {
+    "id": 2441115,
+    "name": "Claire Zvosec",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Marketing"
+  },
+  "Seth Mulliken": {
+    "found": false
+  },
+  "Maia Averett": {
+    "found": false
+  },
+  "James Kim": {
+    "id": 2110856,
+    "name": "James Cohen",
+    "avgRating": 3.5,
+    "avgDifficulty": 2.6,
+    "numRatings": 14,
+    "wouldTakeAgain": 57.1429,
+    "department": "Education"
+  },
+  "Stephen Savitsky": {
+    "id": 1914855,
+    "name": "Stephen Sargent",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Physical Education"
+  },
+  "Tania Muino": {
+    "found": false
+  },
+  "Michael Ruff": {
+    "id": 2096521,
+    "name": "Mike Rea",
+    "avgRating": 2.1,
+    "avgDifficulty": 3,
+    "numRatings": 8,
+    "wouldTakeAgain": 25,
+    "department": "Fine Arts"
+  },
+  "Valerie Hower": {
+    "id": 479416,
+    "name": "Valerie Guyant",
+    "avgRating": 4.4,
+    "avgDifficulty": 1.7,
+    "numRatings": 10,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Daniel Patterson": {
+    "id": 2028973,
+    "name": "Daniel Rogness",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.6,
+    "numRatings": 30,
+    "wouldTakeAgain": 20.8333,
+    "department": "Computer Science"
+  },
+  "David Andersen": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Daniel Douglass": {
+    "id": 2028973,
+    "name": "Daniel Rogness",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.6,
+    "numRatings": 30,
+    "wouldTakeAgain": 20.8333,
+    "department": "Computer Science"
+  },
+  "Lauren McCallick Thomas": {
+    "id": 1945900,
+    "name": "Lauren Tabakhi",
+    "avgRating": 4.9,
+    "avgDifficulty": 1.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Manas Dogra": {
+    "found": false
+  },
+  "Ann Thresher": {
+    "id": 1398177,
+    "name": "Ann Dzuranin",
+    "avgRating": 2.9,
+    "avgDifficulty": 3.6,
+    "numRatings": 27,
+    "wouldTakeAgain": 25,
+    "department": "Accounting"
+  },
+  "Timothy Gagnon": {
+    "id": 1447249,
+    "name": "Timothy Hagen",
+    "avgRating": 4.5,
+    "avgDifficulty": 3,
+    "numRatings": 26,
+    "wouldTakeAgain": 80,
+    "department": "Chemistry"
+  },
+  "David DeSteno": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "May ElSherif": {
+    "id": 106016,
+    "name": "Brian May",
+    "avgRating": 3.8,
+    "avgDifficulty": 3.4,
+    "numRatings": 26,
+    "wouldTakeAgain": 20,
+    "department": "English"
+  },
+  "Kimberley Magowan": {
+    "found": false
+  },
+  "Gokcen Erkilic": {
+    "found": false
+  },
+  "Joshua Gancher": {
+    "id": 3068971,
+    "name": "Joshua Ireland",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Physical Education"
+  },
+  "Gordana Todorov": {
+    "found": false
+  },
+  "Muhammad Abdullah Mutahar": {
+    "found": false
+  },
+  "Prathibha Kasaragod": {
+    "found": false
+  },
+  "Branden Fitelson": {
+    "found": false
+  },
+  "Nicole Hosey": {
+    "id": 3009233,
+    "name": "Nicole  Scheuermann ",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Biology"
+  },
+  "Christopher Amato": {
+    "id": 2192322,
+    "name": "Christopher Lapeyre",
+    "avgRating": 1.7,
+    "avgDifficulty": 4,
+    "numRatings": 3,
+    "wouldTakeAgain": 0,
+    "department": "English"
+  },
+  "Julia Garrett": {
+    "id": 2929138,
+    "name": "Julia  Gutierez",
+    "avgRating": 4,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Ethnic Studies"
+  },
+  "Geoff Tarulli": {
+    "id": 1151618,
+    "name": "Geoff Rogal",
+    "avgRating": 4.5,
+    "avgDifficulty": 1.8,
+    "numRatings": 9,
+    "wouldTakeAgain": -1,
+    "department": "Political Science"
+  },
+  "Allison Betsold": {
+    "id": 3085998,
+    "name": "Allison Macheck",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "Ieshia Karasik": {
+    "found": false
+  },
+  "Junauro Landgrebe": {
+    "found": false
+  },
+  "Briana Trifiro": {
+    "found": false
+  },
+  "Alberto De la Torre Duran": {
+    "id": 3056377,
+    "name": "Hector de la Torre Perez",
+    "avgRating": 4.7,
+    "avgDifficulty": 2.6,
+    "numRatings": 7,
+    "wouldTakeAgain": 100,
+    "department": "Physics"
+  },
+  "Aditya Mishra": {
+    "id": 2554955,
+    "name": "Manjari Mishra",
+    "avgRating": 1.8,
+    "avgDifficulty": 3.5,
+    "numRatings": 10,
+    "wouldTakeAgain": 20,
+    "department": "Biology"
+  },
+  "Patricia Hampf": {
+    "id": 252976,
+    "name": "Patricia Rickett",
+    "avgRating": 3.9,
+    "avgDifficulty": 1.7,
+    "numRatings": 35,
+    "wouldTakeAgain": 22.2222,
+    "department": "English"
+  },
+  "Jason Nolen-Doerr": {
+    "id": 1445549,
+    "name": "Jason Reed",
+    "avgRating": 2.5,
+    "avgDifficulty": 3.3,
+    "numRatings": 6,
+    "wouldTakeAgain": 50,
+    "department": "Psychology"
+  },
+  "Varun Phadke": {
+    "found": false
+  },
+  "Katherine Hazen": {
+    "id": 1980034,
+    "name": "Katherine Coulter",
+    "avgRating": 4.9,
+    "avgDifficulty": 2.6,
+    "numRatings": 5,
+    "wouldTakeAgain": 100,
+    "department": "Nursing"
+  },
+  "Chhomroth Un": {
+    "id": 796794,
+    "name": "Kheang Un",
+    "avgRating": 3.3,
+    "avgDifficulty": 3.3,
+    "numRatings": 33,
+    "wouldTakeAgain": 50,
+    "department": "Political Science"
+  },
+  "Molly McMahon": {
+    "id": 500928,
+    "name": "Molly Swick",
+    "avgRating": 4.7,
+    "avgDifficulty": 1.5,
+    "numRatings": 143,
+    "wouldTakeAgain": 95.2381,
+    "department": "Education"
+  },
+  "Samantha Martinez": {
+    "id": 2490168,
+    "name": "Samantha Gibson",
+    "avgRating": 3.7,
+    "avgDifficulty": 2.3,
+    "numRatings": 3,
+    "wouldTakeAgain": 66.6667,
+    "department": "Marketing"
+  },
+  "Lee Moreau": {
+    "id": 2124401,
+    "name": "Lee Sido",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Art"
+  },
+  "Junrong Yan": {
+    "id": 1882063,
+    "name": "Yanbin Yin",
+    "avgRating": 2.4,
+    "avgDifficulty": 2,
+    "numRatings": 4,
+    "wouldTakeAgain": 0,
+    "department": "Biology"
+  },
+  "Alan Jamieson": {
+    "id": 358187,
+    "name": "Alan Clemens",
+    "avgRating": 4.3,
+    "avgDifficulty": 1.7,
+    "numRatings": 56,
+    "wouldTakeAgain": 75,
+    "department": "Education"
+  },
+  "Roi Yehoshua": {
+    "found": false
+  },
+  "Rebekah Getman": {
+    "id": 2565383,
+    "name": "Rebekah Chiasson",
+    "avgRating": 5,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Communication"
+  },
+  "Jin Yu": {
+    "id": 2852368,
+    "name": "Yujun Liu",
+    "avgRating": 4,
+    "avgDifficulty": 2,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Health Science"
+  },
+  "Kevin Samejon": {
+    "id": 2623157,
+    "name": "Kevin Shryock",
+    "avgRating": 2.3,
+    "avgDifficulty": 4.1,
+    "numRatings": 16,
+    "wouldTakeAgain": 31.25,
+    "department": "Mathematics"
+  },
+  "Donathan Brown": {
+    "id": 772061,
+    "name": "Dennis Brown",
+    "avgRating": 1.7,
+    "avgDifficulty": 4.5,
+    "numRatings": 107,
+    "wouldTakeAgain": 6.1224,
+    "department": "Physics"
+  },
+  "Walter Schnyder": {
+    "id": 398196,
+    "name": "Walter Atkinson",
+    "avgRating": 3.2,
+    "avgDifficulty": 2.5,
+    "numRatings": 29,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Stephen Ortega": {
+    "id": 1966870,
+    "name": "Stephen Martin",
+    "avgRating": 5,
+    "avgDifficulty": 4.3,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Physics"
+  },
+  "Alyssa Cordero": {
+    "id": 2975439,
+    "name": "Alan Cordero Hernandez",
+    "avgRating": 3,
+    "avgDifficulty": 4,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Graphic Arts"
+  },
+  "Samantha Boehm": {
+    "id": 2490168,
+    "name": "Samantha Gibson",
+    "avgRating": 3.7,
+    "avgDifficulty": 2.3,
+    "numRatings": 3,
+    "wouldTakeAgain": 66.6667,
+    "department": "Marketing"
+  },
+  "Ross Horvitz": {
+    "id": 1323581,
+    "name": "Ross Knoll",
+    "avgRating": 3.3,
+    "avgDifficulty": 4.2,
+    "numRatings": 6,
+    "wouldTakeAgain": -1,
+    "department": "Psychology"
+  },
+  "Ricardo Baeza-Yates": {
+    "found": false
+  },
+  "Qinghong Cai": {
+    "id": 2516769,
+    "name": "Caitlin Gamble",
+    "avgRating": 4.8,
+    "avgDifficulty": 1.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Patrick Hurley": {
+    "id": 2856909,
+    "name": "Patrick Lindsey",
+    "avgRating": 2.5,
+    "avgDifficulty": 3,
+    "numRatings": 2,
+    "wouldTakeAgain": 50,
+    "department": "English"
+  },
+  "Su Yeon Mun": {
+    "id": 2324691,
+    "name": "Paul Munger",
+    "avgRating": 2.8,
+    "avgDifficulty": 3.9,
+    "numRatings": 13,
+    "wouldTakeAgain": 46.1538,
+    "department": "Chemistry"
+  },
+  "Aanchan Mohan": {
+    "id": 1226865,
+    "name": "Mohan Thapa",
+    "avgRating": 3.5,
+    "avgDifficulty": 2,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "Janice Maras": {
+    "id": 514210,
+    "name": "Janice Hamlet",
+    "avgRating": 3.5,
+    "avgDifficulty": 2.6,
+    "numRatings": 16,
+    "wouldTakeAgain": 100,
+    "department": "Communication"
+  },
+  "Elizabeth Larson": {
+    "id": 2454619,
+    "name": "Elizabeth Duhn",
+    "avgRating": 5,
+    "avgDifficulty": 3,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Nursing"
+  },
+  "Aanjhan Ranganathan": {
+    "found": false
+  },
+  "Vivek Venkatachalam": {
+    "found": false
+  },
+  "Michael Frengel": {
+    "id": 2096521,
+    "name": "Mike Rea",
+    "avgRating": 2.1,
+    "avgDifficulty": 3,
+    "numRatings": 8,
+    "wouldTakeAgain": 25,
+    "department": "Fine Arts"
+  },
+  "Leena Razzaq": {
+    "found": false
+  },
+  "Jenny Van Amburgh": {
+    "id": 2332853,
+    "name": "Jenny Theriault",
+    "avgRating": 5,
+    "avgDifficulty": 3.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Literacy"
+  },
+  "Neha Dave": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Dmitri Krioukov": {
+    "found": false
+  },
+  "Thalia Marie Cruzat": {
+    "id": 2592947,
+    "name": "Marie Swartz",
+    "avgRating": 4.5,
+    "avgDifficulty": 3.3,
+    "numRatings": 4,
+    "wouldTakeAgain": 75,
+    "department": "Mathematics"
+  },
+  "Tabitha Benitez-Rogers": {
+    "id": 1834611,
+    "name": "Tabitha London",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Yidi Qi": {
+    "id": 2413405,
+    "name": "Nan Qin",
+    "avgRating": 3.9,
+    "avgDifficulty": 4,
+    "numRatings": 11,
+    "wouldTakeAgain": 72.7273,
+    "department": "Finance"
+  },
+  "Nancy Watkins": {
+    "id": 524337,
+    "name": "Nancy Russo",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.5,
+    "numRatings": 22,
+    "wouldTakeAgain": -1,
+    "department": "Business"
+  },
+  "Maryam Tanha": {
+    "found": false
+  },
+  "Claudia Santelices": {
+    "found": false
+  },
+  "Ruth Sondermann": {
+    "id": 2244165,
+    "name": "Ruth Imrose",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 2,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Gun Suer": {
+    "found": false
+  },
+  "Melissa Liriano": {
+    "id": 1659449,
+    "name": "Melissa Adams-Campbell",
+    "avgRating": 4,
+    "avgDifficulty": 3.5,
+    "numRatings": 9,
+    "wouldTakeAgain": 66.6667,
+    "department": "English"
+  },
+  "Grace Nyberg": {
+    "found": false
+  },
+  "Anthony Russo": {
+    "id": 1313858,
+    "name": "Anthony Coman",
+    "avgRating": 3.9,
+    "avgDifficulty": 1.8,
+    "numRatings": 4,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Victor Zappi": {
+    "id": 183133,
+    "name": "Victor Ryzhov",
+    "avgRating": 3.6,
+    "avgDifficulty": 3.3,
+    "numRatings": 25,
+    "wouldTakeAgain": 100,
+    "department": "Chemistry"
+  },
+  "Zachary Forni": {
+    "id": 1165223,
+    "name": "Zachary Lutz",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "History"
+  },
+  "Sven Olson": {
+    "id": 2592907,
+    "name": "Michelle Olson",
+    "avgRating": 2,
+    "avgDifficulty": 4.3,
+    "numRatings": 3,
+    "wouldTakeAgain": 0,
+    "department": "Education"
+  },
+  "Robin Hennessy": {
+    "id": 375344,
+    "name": "Robin Moremen",
+    "avgRating": 4,
+    "avgDifficulty": 3.5,
+    "numRatings": 31,
+    "wouldTakeAgain": -1,
+    "department": "Sociology"
+  },
+  "Peter Simon": {
+    "id": 1136009,
+    "name": "Peter Magnusson",
+    "avgRating": 3.6,
+    "avgDifficulty": 2.9,
+    "numRatings": 9,
+    "wouldTakeAgain": 0,
+    "department": "Marketing"
+  },
+  "Divya Chaudhary": {
+    "found": false
+  },
+  "Monica Coady": {
+    "found": false
+  },
+  "Scott Valcourt": {
+    "id": 2843834,
+    "name": "Scott Zellmer",
+    "avgRating": 5,
+    "avgDifficulty": 1.1,
+    "numRatings": 8,
+    "wouldTakeAgain": 100,
+    "department": "Communication"
+  },
+  "Valentina Di Blasi": {
+    "found": false
+  },
+  "David Magee": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Maria Para": {
+    "id": 1376856,
+    "name": "Maria Stefenel",
+    "avgRating": 3.4,
+    "avgDifficulty": 2.8,
+    "numRatings": 26,
+    "wouldTakeAgain": 52.381,
+    "department": "Communication"
+  },
+  "Jill Dupree": {
+    "id": 1779953,
+    "name": "Jill Tikkun",
+    "avgRating": 4.5,
+    "avgDifficulty": 2,
+    "numRatings": 13,
+    "wouldTakeAgain": 100,
+    "department": "Education"
+  },
+  "Natalee Bauer": {
+    "id": 2143354,
+    "name": "Adam Bauer",
+    "avgRating": 3.2,
+    "avgDifficulty": 2.3,
+    "numRatings": 3,
+    "wouldTakeAgain": 50,
+    "department": "Geography"
+  },
+  "Sarah Young-Hong": {
+    "id": 1169234,
+    "name": "Sarah Evans",
+    "avgRating": 3,
+    "avgDifficulty": 3.7,
+    "numRatings": 23,
+    "wouldTakeAgain": 28.5714,
+    "department": "Art History"
+  },
+  "Petar Topalov": {
+    "found": false
+  },
+  "Melissa Wolter-Gustaf": {
+    "id": 1659449,
+    "name": "Melissa Adams-Campbell",
+    "avgRating": 4,
+    "avgDifficulty": 3.5,
+    "numRatings": 9,
+    "wouldTakeAgain": 66.6667,
+    "department": "English"
+  },
+  "Lin Zhou": {
+    "id": 2945385,
+    "name": "Jui-YIng Lin",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Communication"
+  },
+  "Sheila Pollard": {
+    "id": 1812550,
+    "name": "Sheila Barrett",
+    "avgRating": 1.8,
+    "avgDifficulty": 2.4,
+    "numRatings": 13,
+    "wouldTakeAgain": 22.2222,
+    "department": "Nutrition & Foods"
+  },
+  "Stephen Hatfield": {
+    "id": 1966870,
+    "name": "Stephen Martin",
+    "avgRating": 5,
+    "avgDifficulty": 4.3,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Physics"
+  },
+  "Yeemay Su": {
+    "id": 514684,
+    "name": "Lee Sunderlin",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.6,
+    "numRatings": 55,
+    "wouldTakeAgain": 17.6471,
+    "department": "Chemistry"
+  },
+  "J Timothy Sage": {
+    "id": 1447249,
+    "name": "Timothy Hagen",
+    "avgRating": 4.5,
+    "avgDifficulty": 3,
+    "numRatings": 26,
+    "wouldTakeAgain": 80,
+    "department": "Chemistry"
+  },
+  "Joseph Tighe": {
+    "id": 1941543,
+    "name": "Joseph Crundwell",
+    "avgRating": 4.9,
+    "avgDifficulty": 1.8,
+    "numRatings": 5,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Logan Seward": {
+    "found": false
+  },
+  "Alexis Lavallee": {
+    "id": 1747575,
+    "name": "Clifford Alexis",
+    "avgRating": 5,
+    "avgDifficulty": 5,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Music"
+  },
+  "Michael Tolley": {
+    "id": 2096521,
+    "name": "Mike Rea",
+    "avgRating": 2.1,
+    "avgDifficulty": 3,
+    "numRatings": 8,
+    "wouldTakeAgain": 25,
+    "department": "Fine Arts"
+  },
+  "Jessica Pauly": {
+    "id": 1274189,
+    "name": "Jessica Guzman",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Benjamin Yelle": {
+    "id": 3000188,
+    "name": "Ben Zandi",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Engineering"
+  },
+  "Megan Hofmann": {
+    "id": 2423553,
+    "name": "Megan Kennedy",
+    "avgRating": 5,
+    "avgDifficulty": 1.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 100,
+    "department": "Psychology"
+  },
+  "Steven Holtzen": {
+    "id": 1479741,
+    "name": "Steven Daskal",
+    "avgRating": 4.8,
+    "avgDifficulty": 2,
+    "numRatings": 15,
+    "wouldTakeAgain": 100,
+    "department": "Philosophy"
+  },
+  "Steven Morin": {
+    "id": 2882160,
+    "name": "Steven Bjork",
+    "avgRating": 5,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Education"
+  },
+  "Olga Birioukova": {
+    "id": 2904691,
+    "name": "Olga Smirnow",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 1,
+    "wouldTakeAgain": 0,
+    "department": "Social Science"
+  },
+  "Skylar Borgstrom": {
+    "found": false
+  },
+  "Jeffrey Letourneau": {
+    "id": 312995,
+    "name": "Joel Jeffrey",
+    "avgRating": 4,
+    "avgDifficulty": 2.6,
+    "numRatings": 12,
+    "wouldTakeAgain": -1,
+    "department": "Computer Science"
+  },
+  "Lauren Savit": {
+    "id": 1945900,
+    "name": "Lauren Tabakhi",
+    "avgRating": 4.9,
+    "avgDifficulty": 1.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Mardiros Merdinian": {
+    "found": false
+  },
+  "Carolyn Boviard": {
+    "id": 1823876,
+    "name": "Carolyn Riley",
+    "avgRating": 4.2,
+    "avgDifficulty": 2.3,
+    "numRatings": 7,
+    "wouldTakeAgain": 80,
+    "department": "Education"
+  },
+  "Corrine Stocking": {
+    "id": 1192085,
+    "name": "Corrine Wickens",
+    "avgRating": 1.8,
+    "avgDifficulty": 3.8,
+    "numRatings": 34,
+    "wouldTakeAgain": 6.6667,
+    "department": "Literacy"
+  },
+  "Jacqueline McCleary": {
+    "found": false
+  },
+  "George Jedras": {
+    "id": 351028,
+    "name": "George Slotsve",
+    "avgRating": 2.3,
+    "avgDifficulty": 3.7,
+    "numRatings": 45,
+    "wouldTakeAgain": 33.3333,
+    "department": "Economics"
+  },
+  "John Buchanan": {
+    "id": 1935746,
+    "name": "John Strid",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 40,
+    "department": "English"
+  },
+  "Jennifer Cassano": {
+    "id": 1643515,
+    "name": "Jennifer Eden",
+    "avgRating": 4.9,
+    "avgDifficulty": 2.5,
+    "numRatings": 4,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Gordana Rabrenovic": {
+    "found": false
+  },
+  "Shannon Carnahan": {
+    "id": 2155081,
+    "name": "Shannon Becker",
+    "avgRating": 5,
+    "avgDifficulty": 2.4,
+    "numRatings": 10,
+    "wouldTakeAgain": 100,
+    "department": "Foreign Languages  Literature"
+  },
+  "Geraldine Guarin": {
+    "found": false
+  },
+  "Trafford Welden": {
+    "found": false
+  },
+  "Robert Ward": {
+    "id": 14973,
+    "name": "Robert Rannie",
+    "avgRating": 2.6,
+    "avgDifficulty": 4.8,
+    "numRatings": 53,
+    "wouldTakeAgain": 0,
+    "department": "Computer Science"
+  },
+  "Lama Hamandi": {
+    "found": false
+  },
+  "Misty Nelson": {
+    "id": 1868009,
+    "name": "Alana Nelson",
+    "avgRating": 4.8,
+    "avgDifficulty": 2,
+    "numRatings": 6,
+    "wouldTakeAgain": 100,
+    "department": "Music"
+  },
+  "Jillian Reeves": {
+    "id": 2401335,
+    "name": "Todd Reeves",
+    "avgRating": 2.4,
+    "avgDifficulty": 4.1,
+    "numRatings": 10,
+    "wouldTakeAgain": 40,
+    "department": "Technology"
+  },
+  "Zhou Li": {
+    "id": 721955,
+    "name": "Lei Zhou",
+    "avgRating": 2.5,
+    "avgDifficulty": 4.4,
+    "numRatings": 153,
+    "wouldTakeAgain": 26.3158,
+    "department": "Finance"
+  },
+  "Sarah Peacock": {
+    "id": 1169234,
+    "name": "Sarah Evans",
+    "avgRating": 3,
+    "avgDifficulty": 3.7,
+    "numRatings": 23,
+    "wouldTakeAgain": 28.5714,
+    "department": "Art History"
+  },
+  "David Richters": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Eiko Hodes": {
+    "found": false
+  },
+  "Oscar Veliz": {
+    "id": 3087165,
+    "name": "Oscar Nunez Enriquez",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Physical Education"
+  },
+  "Abbie DeCamp": {
+    "found": false
+  },
+  "Zhuoqun Cheng": {
+    "id": 2506304,
+    "name": "Yingwen Cheng",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.3,
+    "numRatings": 18,
+    "wouldTakeAgain": 55.5556,
+    "department": "Chemistry"
+  },
+  "Martin Schedlbauer": {
+    "id": 2954624,
+    "name": "William Martin",
+    "avgRating": 2,
+    "avgDifficulty": 2,
+    "numRatings": 3,
+    "wouldTakeAgain": 33.3333,
+    "department": "Biology"
+  },
+  "Morgan DiCesare": {
+    "id": 2081253,
+    "name": "Daniel Morgan",
+    "avgRating": 4.3,
+    "avgDifficulty": 2.7,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "Marketing"
+  },
+  "Matthew Hunt": {
+    "id": 494797,
+    "name": "Matthew Pamental",
+    "avgRating": 2.5,
+    "avgDifficulty": 3.8,
+    "numRatings": 53,
+    "wouldTakeAgain": 100,
+    "department": "Philosophy"
+  },
+  "Colin Brown": {
+    "id": 2296266,
+    "name": "Colin Kuehl",
+    "avgRating": 4.9,
+    "avgDifficulty": 3,
+    "numRatings": 9,
+    "wouldTakeAgain": 100,
+    "department": "Political Science"
+  },
+  "Katherine Mailly": {
+    "id": 1980034,
+    "name": "Katherine Coulter",
+    "avgRating": 4.9,
+    "avgDifficulty": 2.6,
+    "numRatings": 5,
+    "wouldTakeAgain": 100,
+    "department": "Nursing"
+  },
+  "Quincey Spagnoletti": {
+    "found": false
+  },
+  "Tisha Stadnicki": {
+    "found": false
+  },
+  "Felix Muzny": {
+    "found": false
+  },
+  "Sarah Kanouse": {
+    "id": 1169234,
+    "name": "Sarah Evans",
+    "avgRating": 3,
+    "avgDifficulty": 3.7,
+    "numRatings": 23,
+    "wouldTakeAgain": 28.5714,
+    "department": "Art History"
+  },
+  "Brian Cross": {
+    "id": 919191,
+    "name": "Brian Sandberg",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.5,
+    "numRatings": 20,
+    "wouldTakeAgain": 66.6667,
+    "department": "History"
+  },
+  "John Friar": {
+    "id": 1935746,
+    "name": "John Strid",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 40,
+    "department": "English"
+  },
+  "James Regan": {
+    "id": 2110856,
+    "name": "James Cohen",
+    "avgRating": 3.5,
+    "avgDifficulty": 2.6,
+    "numRatings": 14,
+    "wouldTakeAgain": 57.1429,
+    "department": "Education"
+  },
+  "Bryanna Tobin": {
+    "found": false
+  },
+  "Edgar Karapetian": {
+    "found": false
+  },
+  "Oswaldo Vazquez": {
+    "id": 63268,
+    "name": "Laura Vazquez",
+    "avgRating": 3.7,
+    "avgDifficulty": 3.4,
+    "numRatings": 34,
+    "wouldTakeAgain": 33.3333,
+    "department": "Communication"
+  },
+  "Michael DiAntonio": {
+    "id": 1048473,
+    "name": "Michael Eraas",
+    "avgRating": 4.5,
+    "avgDifficulty": 2.4,
+    "numRatings": 78,
+    "wouldTakeAgain": 84.6154,
+    "department": "Mathematics"
+  },
+  "Stuart Brorson": {
+    "id": 429441,
+    "name": "Stuart Hill",
+    "avgRating": 3.6,
+    "avgDifficulty": 3.8,
+    "numRatings": 27,
+    "wouldTakeAgain": -1,
+    "department": "Biology"
+  },
+  "Dayanara Diaz Vargas": {
+    "id": 2753193,
+    "name": "L. Karina Diaz",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Krista Larsen": {
+    "found": false
+  },
+  "Ariel Hamlin": {
+    "found": false
+  },
+  "Karl Lieberherr": {
+    "found": false
+  },
+  "Paul Stevenson": {
+    "id": 2490579,
+    "name": "Paul Prabhaker",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Marketing"
+  },
+  "Anne Harris": {
+    "id": 236425,
+    "name": "Anne Britt",
+    "avgRating": 3.7,
+    "avgDifficulty": 3.8,
+    "numRatings": 72,
+    "wouldTakeAgain": 64,
+    "department": "Psychology"
+  },
+  "Keith Bagley": {
+    "id": 253524,
+    "name": "Keith Nyquist",
+    "avgRating": 3.8,
+    "avgDifficulty": 3.1,
+    "numRatings": 46,
+    "wouldTakeAgain": 76.9231,
+    "department": "English"
+  },
+  "David Stalfa": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Lisa McLeod": {
+    "id": 2073748,
+    "name": "Lisa Schmidt",
+    "avgRating": 4,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Smajl Cengic": {
+    "found": false
+  },
+  "Daniel Adams": {
+    "id": 2028973,
+    "name": "Daniel Rogness",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.6,
+    "numRatings": 30,
+    "wouldTakeAgain": 20.8333,
+    "department": "Computer Science"
+  },
+  "Garrett Morrow": {
+    "found": false
+  },
+  "Taylor Pons": {
+    "id": 1574922,
+    "name": "Shannon Taylor",
+    "avgRating": 4.7,
+    "avgDifficulty": 2,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "Management"
+  },
+  "William Jackson": {
+    "id": 2547659,
+    "name": "William O'Conner",
+    "avgRating": 4.3,
+    "avgDifficulty": 3.1,
+    "numRatings": 11,
+    "wouldTakeAgain": 81.8182,
+    "department": "Mathematics"
+  },
+  "Kathleen Vander Laan": {
+    "id": 1075042,
+    "name": "Carolyn Vander Schee",
+    "avgRating": 4.8,
+    "avgDifficulty": 2.2,
+    "numRatings": 13,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Daniel Nwogwugwu": {
+    "id": 2028973,
+    "name": "Daniel Rogness",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.6,
+    "numRatings": 30,
+    "wouldTakeAgain": 20.8333,
+    "department": "Computer Science"
+  },
+  "Amanda Thompson": {
+    "id": 1811798,
+    "name": "Amanda Ferguson",
+    "avgRating": 4.6,
+    "avgDifficulty": 2.6,
+    "numRatings": 10,
+    "wouldTakeAgain": 100,
+    "department": "Management"
+  },
+  "Justin Manjourides": {
+    "id": 2529784,
+    "name": "Justin Bitner",
+    "avgRating": 2,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": 0,
+    "department": "Art"
+  },
+  "Justin Caouette": {
+    "id": 2529784,
+    "name": "Justin Bitner",
+    "avgRating": 2,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": 0,
+    "department": "Art"
+  },
+  "Abiola Olatoye": {
+    "found": false
+  },
+  "Leila Deravi": {
+    "id": 771804,
+    "name": "Leila Porter",
+    "avgRating": 4.4,
+    "avgDifficulty": 2.4,
+    "numRatings": 32,
+    "wouldTakeAgain": 100,
+    "department": "Anthropology"
+  },
+  "Gary Osmond": {
+    "id": 1638059,
+    "name": "Gary Chen",
+    "avgRating": 3.9,
+    "avgDifficulty": 2.8,
+    "numRatings": 14,
+    "wouldTakeAgain": 85.7143,
+    "department": "Engineering"
+  },
+  "Evodio Kaltenecker Retto de Queiroz": {
+    "id": 1717927,
+    "name": "Maria De Avila",
+    "avgRating": 2.5,
+    "avgDifficulty": 4.7,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "Foreign Languages"
+  },
+  "Jonathan Bell": {
+    "id": 1975603,
+    "name": "Jonathan Lehuta",
+    "avgRating": 2.6,
+    "avgDifficulty": 3.9,
+    "numRatings": 52,
+    "wouldTakeAgain": 48.9362,
+    "department": "Computer Science"
+  },
+  "Valentina Marano": {
+    "found": false
+  },
+  "David Kaeli": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Hilary Rosenfeld": {
+    "id": 2729397,
+    "name": "Scott Rosenfelder",
+    "avgRating": 5,
+    "avgDifficulty": 3,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Business"
+  },
+  "Cristine McMartin-Miller": {
+    "id": 2028418,
+    "name": "Cristine Santos",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Communication Disorders"
+  },
+  "Anthony Woodall": {
+    "id": 1313858,
+    "name": "Anthony Coman",
+    "avgRating": 3.9,
+    "avgDifficulty": 1.8,
+    "numRatings": 4,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Hilary Poriss": {
+    "found": false
+  },
+  "Augustine Benjamin": {
+    "id": 1684548,
+    "name": "Meg Augustine",
+    "avgRating": 5,
+    "avgDifficulty": 1.5,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Yulia Pinkusevich": {
+    "found": false
+  },
+  "Luigia Maiellaro": {
+    "found": false
+  },
+  "Steven Shafer": {
+    "id": 1479741,
+    "name": "Steven Daskal",
+    "avgRating": 4.8,
+    "avgDifficulty": 2,
+    "numRatings": 15,
+    "wouldTakeAgain": 100,
+    "department": "Philosophy"
+  },
+  "Jennelle Kariotis": {
+    "found": false
+  },
+  "Amy Starzec": {
+    "id": 2111134,
+    "name": "Amy Elbrecht",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "Emily Marcus": {
+    "id": 1693892,
+    "name": "Emily Knudson-Vileseca",
+    "avgRating": 3.3,
+    "avgDifficulty": 3.8,
+    "numRatings": 11,
+    "wouldTakeAgain": 62.5,
+    "department": "Foreign Languages"
+  },
+  "Virginia Ward": {
+    "id": 1024886,
+    "name": "Virginia Naples",
+    "avgRating": 2.9,
+    "avgDifficulty": 3.8,
+    "numRatings": 20,
+    "wouldTakeAgain": 75,
+    "department": "Biology"
+  },
+  "Kristin Maloney": {
+    "id": 1055187,
+    "name": "Kristin McCullough",
+    "avgRating": 4.5,
+    "avgDifficulty": 3.3,
+    "numRatings": 7,
+    "wouldTakeAgain": 100,
+    "department": "Mathematics"
+  },
+  "Hang Deng": {
+    "id": 647769,
+    "name": "Sien Deng",
+    "avgRating": 3.6,
+    "avgDifficulty": 3.2,
+    "numRatings": 19,
+    "wouldTakeAgain": 57.1429,
+    "department": "Mathematics"
+  },
+  "John Wihbey": {
+    "id": 1935746,
+    "name": "John Strid",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 40,
+    "department": "English"
+  },
+  "David Janero": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Ravi Sundaram": {
+    "found": false
+  },
+  "Mi-Kyung Hong": {
+    "id": 253737,
+    "name": "Yoo Pyo Hong",
+    "avgRating": 3,
+    "avgDifficulty": 2.6,
+    "numRatings": 38,
+    "wouldTakeAgain": 42.8571,
+    "department": "Mathematics"
+  },
+  "Richard Porter": {
+    "id": 65588,
+    "name": "Richard Born",
+    "avgRating": 3.9,
+    "avgDifficulty": 3.6,
+    "numRatings": 10,
+    "wouldTakeAgain": -1,
+    "department": "Business"
+  },
+  "Eric Goble": {
+    "id": 3124587,
+    "name": "Eric  Asiedu",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Sean Carroll": {
+    "id": 1932941,
+    "name": "Sean McIlrath",
+    "avgRating": 4.5,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Chemistry"
+  },
+  "Gustavo Vicentini": {
+    "found": false
+  },
+  "Huihui Wang": {
+    "id": 921554,
+    "name": "Shei Chau Wang",
+    "avgRating": 3.4,
+    "avgDifficulty": 4.1,
+    "numRatings": 13,
+    "wouldTakeAgain": 60,
+    "department": "Fine Arts"
+  },
+  "Deahan Yu": {
+    "id": 2852368,
+    "name": "Yujun Liu",
+    "avgRating": 4,
+    "avgDifficulty": 2,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Health Science"
+  },
+  "Brandon Sichling": {
+    "id": 2426669,
+    "name": "Brandon Wardell",
+    "avgRating": 3.3,
+    "avgDifficulty": 4,
+    "numRatings": 3,
+    "wouldTakeAgain": 33.3333,
+    "department": "Theater"
+  },
+  "Gunther Elias": {
+    "found": false
+  },
+  "Sanford Ganzell": {
+    "found": false
+  },
+  "Carolin Fuchs": {
+    "id": 1932961,
+    "name": "Christine  Fuchs",
+    "avgRating": 4,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Theater"
+  },
+  "Elitsa Banalieva": {
+    "found": false
+  },
+  "Yishiuan Chin": {
+    "found": false
+  },
+  "Silvio Amir Alves Moreira": {
+    "found": false
+  },
+  "Rebecca Beshoar": {
+    "id": 2423059,
+    "name": "Rebecca Scheid",
+    "avgRating": 5,
+    "avgDifficulty": 1.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Casper Harteveld": {
+    "id": 1646208,
+    "name": "Carrie Casper",
+    "avgRating": 2.5,
+    "avgDifficulty": 4.1,
+    "numRatings": 34,
+    "wouldTakeAgain": 25,
+    "department": "Communication"
+  },
+  "Jennifer Cullen": {
+    "id": 1643515,
+    "name": "Jennifer Eden",
+    "avgRating": 4.9,
+    "avgDifficulty": 2.5,
+    "numRatings": 4,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Florin Bidian": {
+    "found": false
+  },
+  "Annie Witte": {
+    "found": false
+  },
+  "Arturo Ortiz San Miguel": {
+    "id": 2827401,
+    "name": "Edward Miguel",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Engineering"
+  },
+  "Genevieve Winn": {
+    "found": false
+  },
+  "Amal Ahmed": {
+    "found": false
+  },
+  "Ryan Ellis": {
+    "id": 1053615,
+    "name": "Ryan Hibbett",
+    "avgRating": 3.5,
+    "avgDifficulty": 3,
+    "numRatings": 23,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Bruce Chhay": {
+    "id": 1006022,
+    "name": "Bruce Novak",
+    "avgRating": 2.3,
+    "avgDifficulty": 3.7,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Mariana Valencia Mestre": {
+    "id": 3119191,
+    "name": "Mariana Ricklefs",
+    "avgRating": 1,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": 0,
+    "department": "Education"
+  },
+  "Melissa McElligott": {
+    "id": 1659449,
+    "name": "Melissa Adams-Campbell",
+    "avgRating": 4,
+    "avgDifficulty": 3.5,
+    "numRatings": 9,
+    "wouldTakeAgain": 66.6667,
+    "department": "English"
+  },
+  "Elham Dehghan": {
+    "found": false
+  },
+  "Ahmed Fadul": {
+    "found": false
+  },
+  "Nathan Israeloff": {
+    "id": 1932785,
+    "name": "Nathan Blake",
+    "avgRating": 2.4,
+    "avgDifficulty": 2.8,
+    "numRatings": 5,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Valerio Toledano Laredo": {
+    "found": false
+  },
+  "Albert Lionelle": {
+    "found": false
+  },
+  "Veronika Maliborska": {
+    "found": false
+  },
+  "Mark Prokosch": {
+    "id": 2436028,
+    "name": "Mark Mellon",
+    "avgRating": 4.6,
+    "avgDifficulty": 3.3,
+    "numRatings": 8,
+    "wouldTakeAgain": 87.5,
+    "department": "Accounting"
+  },
+  "Michael Thornton": {
+    "id": 1048473,
+    "name": "Michael Eraas",
+    "avgRating": 4.5,
+    "avgDifficulty": 2.4,
+    "numRatings": 78,
+    "wouldTakeAgain": 84.6154,
+    "department": "Mathematics"
+  },
+  "Adeel Bhutta": {
+    "found": false
+  },
+  "Suzanne Horwitz": {
+    "id": 2947957,
+    "name": "Suzanne Autrey ",
+    "avgRating": 5,
+    "avgDifficulty": 3.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Geology"
+  },
+  "James Liu": {
+    "id": 1311869,
+    "name": "James Bobis",
+    "avgRating": 3.8,
+    "avgDifficulty": 4.6,
+    "numRatings": 7,
+    "wouldTakeAgain": 100,
+    "department": "Engineering"
+  },
+  "William Matthews": {
+    "id": 2547659,
+    "name": "William O'Conner",
+    "avgRating": 4.3,
+    "avgDifficulty": 3.1,
+    "numRatings": 11,
+    "wouldTakeAgain": 81.8182,
+    "department": "Mathematics"
+  },
+  "Rachel Berman-Kobylarz": {
+    "id": 2766152,
+    "name": "Rachel Kowal",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Health Science"
+  },
+  "Everaldo Aguiar": {
+    "found": false
+  },
+  "Bryan Spring": {
+    "id": 2769770,
+    "name": "Bryan Zollinger",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Mathematics"
+  },
+  "Maciej Kos": {
+    "id": 1556142,
+    "name": "Melanie Koss",
+    "avgRating": 3.6,
+    "avgDifficulty": 2.6,
+    "numRatings": 21,
+    "wouldTakeAgain": 33.3333,
+    "department": "Literacy"
+  },
+  "Jessica Chace": {
+    "id": 1274189,
+    "name": "Jessica Guzman",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Americo Mendoza-Mori": {
+    "found": false
+  },
+  "Almudena Konrad": {
+    "found": false
+  },
+  "Victoria Hill": {
+    "id": 392216,
+    "name": "Victoria Books",
+    "avgRating": 3.5,
+    "avgDifficulty": 2.5,
+    "numRatings": 15,
+    "wouldTakeAgain": 50,
+    "department": "Physical Ed"
+  },
+  "Samuel Scarpino": {
+    "id": 2344944,
+    "name": "Samuel Baker",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Business"
+  },
+  "Adriana Messina": {
+    "id": 1719872,
+    "name": "Adriana Martinez",
+    "avgRating": 4.5,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Foreign Languages"
+  },
+  "Hannah Rowe": {
+    "id": 2191313,
+    "name": "Rowenna Miller",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Amy Ballesteros": {
+    "id": 62709,
+    "name": "Amy Byrnes",
+    "avgRating": 4.3,
+    "avgDifficulty": 2.4,
+    "numRatings": 110,
+    "wouldTakeAgain": 84.2105,
+    "department": "Computer Science"
+  },
+  "Matthias Felleisen": {
+    "found": false
+  },
+  "Rania Hassan": {
+    "found": false
+  },
+  "Richard Freeland": {
+    "id": 65588,
+    "name": "Richard Born",
+    "avgRating": 3.9,
+    "avgDifficulty": 3.6,
+    "numRatings": 10,
+    "wouldTakeAgain": -1,
+    "department": "Business"
+  },
+  "Iva Halacheva": {
+    "found": false
+  },
+  "Amit Shesh": {
+    "id": 1459978,
+    "name": "Amit Patel",
+    "avgRating": 3.2,
+    "avgDifficulty": 3.2,
+    "numRatings": 6,
+    "wouldTakeAgain": -1,
+    "department": "Technology"
+  },
+  "Albert Chanthaboury": {
+    "found": false
+  },
+  "Ilka Kostka": {
+    "found": false
+  },
+  "Duane Lefevre": {
+    "found": false
+  },
+  "Tia Keck": {
+    "found": false
+  },
+  "Brian Robison": {
+    "id": 919191,
+    "name": "Brian Sandberg",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.5,
+    "numRatings": 20,
+    "wouldTakeAgain": 66.6667,
+    "department": "History"
+  },
+  "August Klappenbach": {
+    "found": false
+  },
+  "Evan Dummit": {
+    "id": 718145,
+    "name": "Evan Anderson",
+    "avgRating": 2.6,
+    "avgDifficulty": 4.2,
+    "numRatings": 27,
+    "wouldTakeAgain": 16.6667,
+    "department": "Economics"
+  },
+  "Hannah Spatafore": {
+    "found": false
+  },
+  "Ali Sharifian Attar": {
+    "found": false
+  },
+  "Daniel Wichs": {
+    "id": 2028973,
+    "name": "Daniel Rogness",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.6,
+    "numRatings": 30,
+    "wouldTakeAgain": 20.8333,
+    "department": "Computer Science"
+  },
+  "Elton Booker": {
+    "id": 2730573,
+    "name": "Brandie Booker",
+    "avgRating": 5,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Smruthi Mukund": {
+    "found": false
+  },
+  "Benjamin Grey": {
+    "id": 2123192,
+    "name": "Benjamin Davis",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Christine Olson": {
+    "id": 2851509,
+    "name": "Christine Zimmerman",
+    "avgRating": 1,
+    "avgDifficulty": 4.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 0,
+    "department": "Technology"
+  },
+  "Matthew McDonald": {
+    "id": 1340328,
+    "name": "Matthew Wiesner",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.1,
+    "numRatings": 14,
+    "wouldTakeAgain": 0,
+    "department": "Physics"
+  },
+  "Malihe Alikhani": {
+    "found": false
+  },
+  "Kerry Coleman": {
+    "id": 2572932,
+    "name": "Kerry Fechner",
+    "avgRating": 3.3,
+    "avgDifficulty": 2.3,
+    "numRatings": 12,
+    "wouldTakeAgain": 58.3333,
+    "department": "Business"
+  },
+  "Vishal Rajpal": {
+    "found": false
+  },
+  "Rajagopal Venkatesaramani": {
+    "found": false
+  },
+  "Edward Witten": {
+    "id": 501981,
+    "name": "Edward Callary",
+    "avgRating": 3.3,
+    "avgDifficulty": 3.2,
+    "numRatings": 27,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Megan Butler": {
+    "id": 2423553,
+    "name": "Megan Kennedy",
+    "avgRating": 5,
+    "avgDifficulty": 1.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 100,
+    "department": "Psychology"
+  },
+  "Jose Andres Perea Benitez": {
+    "id": 1102768,
+    "name": "Andres Hijar",
+    "avgRating": 4.2,
+    "avgDifficulty": 3.3,
+    "numRatings": 11,
+    "wouldTakeAgain": 100,
+    "department": "History"
+  },
+  "Robert Pluta": {
+    "id": 1368494,
+    "name": "Robert Jones",
+    "avgRating": 4.8,
+    "avgDifficulty": 3.2,
+    "numRatings": 5,
+    "wouldTakeAgain": 100,
+    "department": "Law"
+  },
+  "Kai Gu": {
+    "id": 264146,
+    "name": "Kai Zhang",
+    "avgRating": 2.6,
+    "avgDifficulty": 2.3,
+    "numRatings": 4,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Emma McDonald": {
+    "id": 1751451,
+    "name": "Emma Kuby",
+    "avgRating": 4.9,
+    "avgDifficulty": 2.4,
+    "numRatings": 25,
+    "wouldTakeAgain": 100,
+    "department": "History"
+  },
+  "Melissa Rubin": {
+    "id": 1659449,
+    "name": "Melissa Adams-Campbell",
+    "avgRating": 4,
+    "avgDifficulty": 3.5,
+    "numRatings": 9,
+    "wouldTakeAgain": 66.6667,
+    "department": "English"
+  },
+  "Susan Ito": {
+    "id": 1611080,
+    "name": "Susan Russel",
+    "avgRating": 1,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Anthropology"
+  },
+  "Adam Cooper": {
+    "id": 2143354,
+    "name": "Adam Bauer",
+    "avgRating": 3.2,
+    "avgDifficulty": 2.3,
+    "numRatings": 3,
+    "wouldTakeAgain": 50,
+    "department": "Geography"
+  },
+  "Leslie Beegle": {
+    "id": 193512,
+    "name": "Leslie Sassone",
+    "avgRating": 3.6,
+    "avgDifficulty": 2.7,
+    "numRatings": 36,
+    "wouldTakeAgain": 63.6364,
+    "department": "Education"
+  },
+  "Bailey Marcus": {
+    "id": 2550929,
+    "name": "Bailey Kreager",
+    "avgRating": 1.9,
+    "avgDifficulty": 3.4,
+    "numRatings": 7,
+    "wouldTakeAgain": 28.5714,
+    "department": "Geology"
+  },
+  "Vanessa Wei": {
+    "id": 15035,
+    "name": "Wei Luo",
+    "avgRating": 2.8,
+    "avgDifficulty": 2.5,
+    "numRatings": 26,
+    "wouldTakeAgain": 0,
+    "department": "Geography"
+  },
+  "Matthew Higger": {
+    "id": 494797,
+    "name": "Matthew Pamental",
+    "avgRating": 2.5,
+    "avgDifficulty": 3.8,
+    "numRatings": 53,
+    "wouldTakeAgain": 100,
+    "department": "Philosophy"
+  },
+  "Jay Spitulnik": {
+    "id": 1337741,
+    "name": "Jay Stravers",
+    "avgRating": 3.9,
+    "avgDifficulty": 2,
+    "numRatings": 59,
+    "wouldTakeAgain": 100,
+    "department": "Geology"
+  },
+  "Engin Kirda": {
+    "found": false
+  },
+  "Iris Alessandra Alanis Leal": {
+    "found": false
+  },
+  "Esteban Moro Egido": {
+    "id": 2367992,
+    "name": "Teresa Moro",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Health & Human Services"
+  },
+  "Kelsey Ruiz": {
+    "found": false
+  },
+  "Dennis Staroselsky": {
+    "id": 2442959,
+    "name": "Dennis DeBeck",
+    "avgRating": 4.8,
+    "avgDifficulty": 2.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "Communication"
+  },
+  "Nelly Anderson": {
+    "id": 254261,
+    "name": "Madelyn Anderson",
+    "avgRating": 4.7,
+    "avgDifficulty": 1.9,
+    "numRatings": 60,
+    "wouldTakeAgain": 85.7143,
+    "department": "Communication"
+  },
+  "Anthony De Ritis": {
+    "id": 2441438,
+    "name": "Anthony McKee",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Health Science"
+  },
+  "Alan West-Duran": {
+    "id": 358187,
+    "name": "Alan Clemens",
+    "avgRating": 4.3,
+    "avgDifficulty": 1.7,
+    "numRatings": 56,
+    "wouldTakeAgain": 75,
+    "department": "Education"
+  },
+  "Matthew Eckelman": {
+    "id": 494797,
+    "name": "Matthew Pamental",
+    "avgRating": 2.5,
+    "avgDifficulty": 3.8,
+    "numRatings": 53,
+    "wouldTakeAgain": 100,
+    "department": "Philosophy"
+  },
+  "Austin Jorgensen": {
+    "id": 1864377,
+    "name": "Austin Cebulske",
+    "avgRating": 5,
+    "avgDifficulty": 1.3,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "Music"
+  },
+  "Prashant Mittal": {
+    "found": false
+  },
+  "Tala Talaei Khoei": {
+    "found": false
+  },
+  "Zhengzhong Jin": {
+    "id": 2673324,
+    "name": "Jinsook Kim",
+    "avgRating": 2,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Health & Human Services"
+  },
+  "Bridget Neale": {
+    "found": false
+  },
+  "Arjun Guha": {
+    "found": false
+  },
+  "Patricia Illingworth": {
+    "id": 252976,
+    "name": "Patricia Rickett",
+    "avgRating": 3.9,
+    "avgDifficulty": 1.7,
+    "numRatings": 35,
+    "wouldTakeAgain": 22.2222,
+    "department": "English"
+  },
+  "Charles Hornsby": {
+    "id": 2368537,
+    "name": "Charles Pudrith",
+    "avgRating": 1.8,
+    "avgDifficulty": 3.8,
+    "numRatings": 12,
+    "wouldTakeAgain": 16.6667,
+    "department": "Communication Disorders"
+  },
+  "Peter Fell": {
+    "id": 1136009,
+    "name": "Peter Magnusson",
+    "avgRating": 3.6,
+    "avgDifficulty": 2.9,
+    "numRatings": 9,
+    "wouldTakeAgain": 0,
+    "department": "Marketing"
+  },
+  "Themis Papageorge": {
+    "found": false
+  },
+  "Jessica Tiblin": {
+    "id": 1274189,
+    "name": "Jessica Guzman",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Khalid Kodi": {
+    "found": false
+  },
+  "Ioannis Livanis": {
+    "found": false
+  },
+  "John Aremu": {
+    "id": 1935746,
+    "name": "John Strid",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 40,
+    "department": "English"
+  },
+  "Aisulu Raspayeva": {
+    "found": false
+  },
+  "Shaunna Harrington": {
+    "id": 2435510,
+    "name": "David Harrington",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Anna Daher": {
+    "id": 3014008,
+    "name": "Anna White",
+    "avgRating": 2,
+    "avgDifficulty": 3.7,
+    "numRatings": 3,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Suzanne McCarthy": {
+    "id": 2947957,
+    "name": "Suzanne Autrey ",
+    "avgRating": 5,
+    "avgDifficulty": 3.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Geology"
+  },
+  "Fatema Nafa": {
+    "found": false
+  },
+  "Susan Spilecki": {
+    "id": 1756289,
+    "name": "Susan Schaub",
+    "avgRating": 4.3,
+    "avgDifficulty": 2.2,
+    "numRatings": 15,
+    "wouldTakeAgain": 100,
+    "department": "Nursing"
+  },
+  "Abhi Shelat": {
+    "found": false
+  },
+  "Truong Tran": {
+    "id": 3117569,
+    "name": "Mai Tran",
+    "avgRating": 4,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Political Science"
+  },
+  "Sahar Abi Hassan Abdul Samad": {
+    "id": 2259437,
+    "name": "Sahar Vahabzadeh",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.6,
+    "numRatings": 59,
+    "wouldTakeAgain": 67.7966,
+    "department": "Engineering"
+  },
+  "Peter Desnoyers": {
+    "id": 1136009,
+    "name": "Peter Magnusson",
+    "avgRating": 3.6,
+    "avgDifficulty": 2.9,
+    "numRatings": 9,
+    "wouldTakeAgain": 0,
+    "department": "Marketing"
+  },
+  "Mirjana Prpa": {
+    "found": false
+  },
+  "Latika Menon": {
+    "found": false
+  },
+  "Kyle Gobrogge": {
+    "id": 2617253,
+    "name": "Kyle Beckwith",
+    "avgRating": 5,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Literacy"
+  },
+  "Christopher Beasley": {
+    "id": 2099983,
+    "name": "Christopher Brough",
+    "avgRating": 4.2,
+    "avgDifficulty": 2.7,
+    "numRatings": 7,
+    "wouldTakeAgain": 80,
+    "department": "Political Science"
+  },
+  "Ji Yong Shin": {
+    "id": 2813980,
+    "name": "Shinan Wu",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Art"
+  },
+  "Yifan Hu": {
+    "id": 2596057,
+    "name": "Young Huh",
+    "avgRating": 2,
+    "avgDifficulty": 3.4,
+    "numRatings": 27,
+    "wouldTakeAgain": 25.9259,
+    "department": "Mathematics"
+  },
+  "Linda Ayrapetov": {
+    "id": 119233,
+    "name": "Linda O'Neill",
+    "avgRating": 4.8,
+    "avgDifficulty": 1.3,
+    "numRatings": 9,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Kelly Harrings": {
+    "id": 2107636,
+    "name": "Stacy Kelly",
+    "avgRating": 5,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Nica Jane Ferrer": {
+    "id": 3000884,
+    "name": "Jane Henrici",
+    "avgRating": 3,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": 0,
+    "department": "Anthropology"
+  },
+  "Jonathan Mwaura": {
+    "id": 1975603,
+    "name": "Jonathan Lehuta",
+    "avgRating": 2.6,
+    "avgDifficulty": 3.9,
+    "numRatings": 52,
+    "wouldTakeAgain": 48.9362,
+    "department": "Computer Science"
+  },
+  "Christopher Ayala": {
+    "id": 2099983,
+    "name": "Christopher Brough",
+    "avgRating": 4.2,
+    "avgDifficulty": 2.7,
+    "numRatings": 7,
+    "wouldTakeAgain": 80,
+    "department": "Political Science"
+  },
+  "Akshar Varma": {
+    "found": false
+  },
+  "Mario Hernandez": {
+    "id": 1982307,
+    "name": "Mario Borha",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "Rajmohan Rajaraman": {
+    "found": false
+  },
+  "Allecia Dodd-Noble": {
+    "found": false
+  },
+  "Kathleen Durant": {
+    "id": 2989153,
+    "name": "Kathleen  Chambers",
+    "avgRating": 1,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": 0,
+    "department": "Nursing"
+  },
+  "Enrico Bertini": {
+    "found": false
+  },
+  "Lynn Dornink": {
+    "id": 2444106,
+    "name": "LYNN DYKSTRA",
+    "avgRating": 5,
+    "avgDifficulty": 1.8,
+    "numRatings": 6,
+    "wouldTakeAgain": 100,
+    "department": "Nursing"
+  },
+  "Cayle O&#39;Brien": {
+    "found": false
+  },
+  "Christen Enos": {
+    "found": false
+  },
+  "Kalten Toone": {
+    "found": false
+  },
+  "Joydeep Mitra": {
+    "found": false
+  },
+  "Guevara Noubir": {
+    "found": false
+  },
+  "Kenyi Herrera Acevedo": {
+    "found": false
+  },
+  "John Lindhe": {
+    "id": 1935746,
+    "name": "John Strid",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 40,
+    "department": "English"
+  },
+  "Shivakumar Mathapathi": {
+    "found": false
+  },
+  "Daniel Metzger": {
+    "id": 2028973,
+    "name": "Daniel Rogness",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.6,
+    "numRatings": 30,
+    "wouldTakeAgain": 20.8333,
+    "department": "Computer Science"
+  },
+  "Thomas Strychacz": {
+    "id": 2067278,
+    "name": "Thomas Jacobs",
+    "avgRating": 4.2,
+    "avgDifficulty": 3.5,
+    "numRatings": 60,
+    "wouldTakeAgain": 85,
+    "department": "Finance"
+  },
+  "Victor Talmadge": {
+    "id": 183133,
+    "name": "Victor Ryzhov",
+    "avgRating": 3.6,
+    "avgDifficulty": 3.3,
+    "numRatings": 25,
+    "wouldTakeAgain": 100,
+    "department": "Chemistry"
+  },
+  "Vy Thi Khanh Nguyen": {
+    "id": 1937178,
+    "name": "Christine  Nguyen",
+    "avgRating": 2.9,
+    "avgDifficulty": 2.9,
+    "numRatings": 10,
+    "wouldTakeAgain": 55.5556,
+    "department": "Engineering"
+  },
+  "Victor Mendevil": {
+    "id": 183133,
+    "name": "Victor Ryzhov",
+    "avgRating": 3.6,
+    "avgDifficulty": 3.3,
+    "numRatings": 25,
+    "wouldTakeAgain": 100,
+    "department": "Chemistry"
+  },
+  "Kirsten Fertuck": {
+    "id": 2063130,
+    "name": "Kirsten Grimes",
+    "avgRating": 4.9,
+    "avgDifficulty": 1.4,
+    "numRatings": 5,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Jacqueline Diani": {
+    "found": false
+  },
+  "Katherine Socha": {
+    "id": 1980034,
+    "name": "Katherine Coulter",
+    "avgRating": 4.9,
+    "avgDifficulty": 2.6,
+    "numRatings": 5,
+    "wouldTakeAgain": 100,
+    "department": "Nursing"
+  },
+  "Andrew Faria-Manchino": {
+    "id": 3096554,
+    "name": "Andrew Ledoan",
+    "avgRating": 4,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Mathematics"
+  },
+  "Lincoln Curtis": {
+    "id": 967119,
+    "name": "Curtis Jackson-Jacobs",
+    "avgRating": 3.9,
+    "avgDifficulty": 2.2,
+    "numRatings": 5,
+    "wouldTakeAgain": -1,
+    "department": "Sociology"
+  },
+  "Paul Hand": {
+    "id": 2490579,
+    "name": "Paul Prabhaker",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Marketing"
+  },
+  "Leonel Murga": {
+    "found": false
+  },
+  "Sophine Clachar": {
+    "found": false
+  },
+  "Ada Lerner": {
+    "found": false
+  },
+  "Rekha Bai": {
+    "id": 2550929,
+    "name": "Bailey Kreager",
+    "avgRating": 1.9,
+    "avgDifficulty": 3.4,
+    "numRatings": 7,
+    "wouldTakeAgain": 28.5714,
+    "department": "Geology"
+  },
+  "Marco Rainho": {
+    "found": false
+  },
+  "Pablo Boixeda Alvarez": {
+    "found": false
+  },
+  "Md Selim": {
+    "id": 2944676,
+    "name": "MD ABU HENA POHIL",
+    "avgRating": 4.2,
+    "avgDifficulty": 2.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Katelyn Federico": {
+    "id": 2469825,
+    "name": "Federico Bassetti",
+    "avgRating": 1.9,
+    "avgDifficulty": 4.3,
+    "numRatings": 22,
+    "wouldTakeAgain": 18.1818,
+    "department": "Technology"
+  },
+  "Md Nazmus Sakib Miazi": {
+    "id": 2944676,
+    "name": "MD ABU HENA POHIL",
+    "avgRating": 4.2,
+    "avgDifficulty": 2.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Nathan Richardson": {
+    "id": 2547206,
+    "name": "Nathan McCormick",
+    "avgRating": 2.5,
+    "avgDifficulty": 4,
+    "numRatings": 2,
+    "wouldTakeAgain": 50,
+    "department": "Political Science"
+  },
+  "Ryan Bockmon": {
+    "id": 1581318,
+    "name": "Ryan Eichberger",
+    "avgRating": 4.3,
+    "avgDifficulty": 4.3,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Abigail Farmer": {
+    "found": false
+  },
+  "Gregory Allen": {
+    "id": 2295753,
+    "name": "Gregory Barker",
+    "avgRating": 5,
+    "avgDifficulty": 1.7,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "University Studies"
+  },
+  "Paula Braga-Kenyon": {
+    "id": 1212773,
+    "name": "Paula Lundberg",
+    "avgRating": 2.7,
+    "avgDifficulty": 3.3,
+    "numRatings": 8,
+    "wouldTakeAgain": -1,
+    "department": "Political Science"
+  },
+  "Charles Barth": {
+    "id": 2368537,
+    "name": "Charles Pudrith",
+    "avgRating": 1.8,
+    "avgDifficulty": 3.8,
+    "numRatings": 12,
+    "wouldTakeAgain": 16.6667,
+    "department": "Communication Disorders"
+  },
+  "Sebastian Stockman": {
+    "id": 2546647,
+    "name": "Sebastian Bentkowski",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Art"
+  },
+  "Balazs Szelenyi": {
+    "found": false
+  },
+  "Matthew Garcia": {
+    "id": 2489233,
+    "name": "Matthew Pickard",
+    "avgRating": 2.5,
+    "avgDifficulty": 4.2,
+    "numRatings": 15,
+    "wouldTakeAgain": 40,
+    "department": "Accounting"
+  },
+  "Ehsan Elhamifar": {
+    "id": 2520331,
+    "name": "Ehsan Asoudegi",
+    "avgRating": 2,
+    "avgDifficulty": 3.3,
+    "numRatings": 4,
+    "wouldTakeAgain": 25,
+    "department": "Engineering"
+  },
+  "Kevin Amorin": {
+    "id": 2623157,
+    "name": "Kevin Shryock",
+    "avgRating": 2.3,
+    "avgDifficulty": 4.1,
+    "numRatings": 16,
+    "wouldTakeAgain": 31.25,
+    "department": "Mathematics"
+  },
+  "Melanie Tory": {
+    "id": 1556142,
+    "name": "Melanie Koss",
+    "avgRating": 3.6,
+    "avgDifficulty": 2.6,
+    "numRatings": 21,
+    "wouldTakeAgain": 33.3333,
+    "department": "Literacy"
+  },
+  "Mahsa Derakhshan": {
+    "found": false
+  },
+  "Michael Ann DeVito": {
+    "id": 1398177,
+    "name": "Ann Dzuranin",
+    "avgRating": 2.9,
+    "avgDifficulty": 3.6,
+    "numRatings": 27,
+    "wouldTakeAgain": 25,
+    "department": "Accounting"
+  },
+  "Meni Wanunu": {
+    "found": false
+  },
+  "Terri Scott": {
+    "id": 2843834,
+    "name": "Scott Zellmer",
+    "avgRating": 5,
+    "avgDifficulty": 1.1,
+    "numRatings": 8,
+    "wouldTakeAgain": 100,
+    "department": "Communication"
+  },
+  "Seth Cooper": {
+    "found": false
+  },
+  "Lori Gardinier": {
+    "id": 253859,
+    "name": "Lori Hartenhoff",
+    "avgRating": 3.3,
+    "avgDifficulty": 2.4,
+    "numRatings": 14,
+    "wouldTakeAgain": 80,
+    "department": "Theater"
+  },
+  "James Fei": {
+    "id": 1311869,
+    "name": "James Bobis",
+    "avgRating": 3.8,
+    "avgDifficulty": 4.6,
+    "numRatings": 7,
+    "wouldTakeAgain": 100,
+    "department": "Engineering"
+  },
+  "Shayna Selinger": {
+    "found": false
+  },
+  "Michael Wan": {
+    "id": 2096521,
+    "name": "Mike Rea",
+    "avgRating": 2.1,
+    "avgDifficulty": 3,
+    "numRatings": 8,
+    "wouldTakeAgain": 25,
+    "department": "Fine Arts"
+  },
+  "Judith Bishop": {
+    "id": 128827,
+    "name": "Judy Santacaterina",
+    "avgRating": 3.8,
+    "avgDifficulty": 3.2,
+    "numRatings": 16,
+    "wouldTakeAgain": 0,
+    "department": "Communication"
+  },
+  "Natalya Watson": {
+    "found": false
+  },
+  "Nan Zhou": {
+    "id": 2413405,
+    "name": "Nan Qin",
+    "avgRating": 3.9,
+    "avgDifficulty": 4,
+    "numRatings": 11,
+    "wouldTakeAgain": 72.7273,
+    "department": "Finance"
+  },
+  "Ryan Rad": {
+    "id": 1053615,
+    "name": "Ryan Hibbett",
+    "avgRating": 3.5,
+    "avgDifficulty": 3,
+    "numRatings": 23,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "James McMillen": {
+    "id": 1311869,
+    "name": "James Bobis",
+    "avgRating": 3.8,
+    "avgDifficulty": 4.6,
+    "numRatings": 7,
+    "wouldTakeAgain": 100,
+    "department": "Engineering"
+  },
+  "Jennifer Huer": {
+    "id": 1643515,
+    "name": "Jennifer Eden",
+    "avgRating": 4.9,
+    "avgDifficulty": 2.5,
+    "numRatings": 4,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Diana Belanger": {
+    "id": 786113,
+    "name": "Diana Steele",
+    "avgRating": 2.1,
+    "avgDifficulty": 3.3,
+    "numRatings": 6,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "Timothy Dransfield": {
+    "id": 1447249,
+    "name": "Timothy Hagen",
+    "avgRating": 4.5,
+    "avgDifficulty": 3,
+    "numRatings": 26,
+    "wouldTakeAgain": 80,
+    "department": "Chemistry"
+  },
+  "Michael Hoppmann": {
+    "id": 2096521,
+    "name": "Mike Rea",
+    "avgRating": 2.1,
+    "avgDifficulty": 3,
+    "numRatings": 8,
+    "wouldTakeAgain": 25,
+    "department": "Fine Arts"
+  },
+  "Ayanna Miller-Smith": {
+    "found": false
+  },
+  "Amy Bryzgel": {
+    "id": 2111134,
+    "name": "Amy Elbrecht",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "Anh Hoang": {
+    "found": false
+  },
+  "Sara Arunagiri": {
+    "id": 1195239,
+    "name": "Sara Bianco",
+    "avgRating": 3.9,
+    "avgDifficulty": 1.9,
+    "numRatings": 8,
+    "wouldTakeAgain": -1,
+    "department": "Languages"
+  },
+  "Garrett Schwab": {
+    "found": false
+  },
+  "Rose Sloan": {
+    "id": 712174,
+    "name": "Rose Feurer",
+    "avgRating": 2.2,
+    "avgDifficulty": 4.2,
+    "numRatings": 36,
+    "wouldTakeAgain": 66.6667,
+    "department": "History"
+  },
+  "Boris Yelin": {
+    "found": false
+  },
+  "Stephanie Kinzinger": {
+    "id": 727989,
+    "name": "Stephanie Kummerer",
+    "avgRating": 4.8,
+    "avgDifficulty": 1.5,
+    "numRatings": 44,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Brianna Sirota": {
+    "found": false
+  },
+  "Kenneth Parker": {
+    "id": 1111809,
+    "name": "Kenneth Elliot",
+    "avgRating": 3.3,
+    "avgDifficulty": 3.7,
+    "numRatings": 6,
+    "wouldTakeAgain": -1,
+    "department": "Business"
+  },
+  "Bindu Veetel": {
+    "found": false
+  },
+  "Karen Garneau": {
+    "id": 291214,
+    "name": "Karen Gutierrez",
+    "avgRating": 1.8,
+    "avgDifficulty": 4.1,
+    "numRatings": 39,
+    "wouldTakeAgain": -1,
+    "department": "Languages"
+  },
+  "Margot Abels": {
+    "id": 2817061,
+    "name": "Allison Abels",
+    "avgRating": 3.4,
+    "avgDifficulty": 2.8,
+    "numRatings": 5,
+    "wouldTakeAgain": 60,
+    "department": "Mathematics"
+  },
+  "Mohammadhossein Toutiaee": {
+    "found": false
+  },
+  "Maureen Desmond": {
+    "id": 1585871,
+    "name": "Maureen Lowry-Fritz",
+    "avgRating": 4.6,
+    "avgDifficulty": 2.7,
+    "numRatings": 10,
+    "wouldTakeAgain": -1,
+    "department": "Political Science"
+  },
+  "Cristina Nita-Rotaru": {
+    "id": 1932880,
+    "name": "Cristina  Escalante-Aguirre ",
+    "avgRating": 3,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Nutrition  Foods"
+  },
+  "Ferdinand Vesely": {
+    "found": false
+  },
+  "Huy Nguyen": {
+    "id": 1937178,
+    "name": "Christine  Nguyen",
+    "avgRating": 2.9,
+    "avgDifficulty": 2.9,
+    "numRatings": 10,
+    "wouldTakeAgain": 55.5556,
+    "department": "Engineering"
+  },
+  "Farnam Zamani Foroshani": {
+    "found": false
+  },
+  "Emily Clough": {
+    "id": 983833,
+    "name": "Emily Kingery",
+    "avgRating": 4,
+    "avgDifficulty": 2.2,
+    "numRatings": 10,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Dorin Thibault": {
+    "found": false
+  },
+  "Maxim Braverman": {
+    "found": false
+  },
+  "Michael Stone": {
+    "id": 2096521,
+    "name": "Mike Rea",
+    "avgRating": 2.1,
+    "avgDifficulty": 3,
+    "numRatings": 8,
+    "wouldTakeAgain": 25,
+    "department": "Fine Arts"
+  },
+  "Milen Yakimov": {
+    "found": false
+  },
+  "Cortney Alexander-Doyle": {
+    "id": 921184,
+    "name": "Cortney Barko",
+    "avgRating": 4.6,
+    "avgDifficulty": 2,
+    "numRatings": 7,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Elizabeth Moore": {
+    "id": 2454619,
+    "name": "Elizabeth Duhn",
+    "avgRating": 5,
+    "avgDifficulty": 3,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Nursing"
+  },
+  "Jose Annunziato": {
+    "id": 2296719,
+    "name": "Jose Bello-Cruz",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.6,
+    "numRatings": 26,
+    "wouldTakeAgain": 50,
+    "department": "Mathematics"
+  },
+  "Eric Winter": {
+    "id": 253188,
+    "name": "Eric Hoffman",
+    "avgRating": 4.6,
+    "avgDifficulty": 2.5,
+    "numRatings": 30,
+    "wouldTakeAgain": 92.8571,
+    "department": "English"
+  },
+  "Ashwin Meshram": {
+    "found": false
+  },
+  "Ines Barbosa": {
+    "found": false
+  },
+  "Virgil Pavlu": {
+    "id": 1997759,
+    "name": "Virgil  Stoia",
+    "avgRating": 3.2,
+    "avgDifficulty": 3,
+    "numRatings": 117,
+    "wouldTakeAgain": 50,
+    "department": "Biology"
+  },
+  "Robin Walters": {
+    "id": 375344,
+    "name": "Robin Moremen",
+    "avgRating": 4,
+    "avgDifficulty": 3.5,
+    "numRatings": 31,
+    "wouldTakeAgain": -1,
+    "department": "Sociology"
+  },
+  "Varun Mishra": {
+    "id": 2554955,
+    "name": "Manjari Mishra",
+    "avgRating": 1.8,
+    "avgDifficulty": 3.5,
+    "numRatings": 10,
+    "wouldTakeAgain": 20,
+    "department": "Biology"
+  },
+  "Catherine Agis": {
+    "id": 592276,
+    "name": "Catherine Maney",
+    "avgRating": 4.2,
+    "avgDifficulty": 3,
+    "numRatings": 9,
+    "wouldTakeAgain": -1,
+    "department": "Nursing"
+  },
+  "Kirsten Rodine Hardy": {
+    "id": 2063130,
+    "name": "Kirsten Grimes",
+    "avgRating": 4.9,
+    "avgDifficulty": 1.4,
+    "numRatings": 5,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Javed Aslam": {
+    "found": false
+  },
+  "Kjirsten Seiler": {
+    "found": false
+  },
+  "Seamus LI": {
+    "id": 151813,
+    "name": "Lisa Finkelstein",
+    "avgRating": 4.5,
+    "avgDifficulty": 2.3,
+    "numRatings": 67,
+    "wouldTakeAgain": 96.1538,
+    "department": "Psychology"
+  },
+  "Linda Chiu": {
+    "id": 119233,
+    "name": "Linda O'Neill",
+    "avgRating": 4.8,
+    "avgDifficulty": 1.3,
+    "numRatings": 9,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Keli Dailey": {
+    "found": false
+  },
+  "Jonathan Weitsman": {
+    "id": 1975603,
+    "name": "Jonathan Lehuta",
+    "avgRating": 2.6,
+    "avgDifficulty": 3.9,
+    "numRatings": 52,
+    "wouldTakeAgain": 48.9362,
+    "department": "Computer Science"
+  },
+  "Tobey Colston": {
+    "found": false
+  },
+  "Ana Otero": {
+    "id": 501194,
+    "name": "Ana Calvo",
+    "avgRating": 2.3,
+    "avgDifficulty": 3.3,
+    "numRatings": 40,
+    "wouldTakeAgain": 68.75,
+    "department": "Biology"
+  },
+  "Ye Zhang": {
+    "id": 399500,
+    "name": "Zhuan Ye",
+    "avgRating": 4.2,
+    "avgDifficulty": 3.3,
+    "numRatings": 23,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "Paulette McCarty": {
+    "found": false
+  },
+  "Hanumant Singh": {
+    "id": 2464365,
+    "name": "Pallavi Singh",
+    "avgRating": 2.3,
+    "avgDifficulty": 3.6,
+    "numRatings": 9,
+    "wouldTakeAgain": 33.3333,
+    "department": "Biology"
+  },
+  "Sadie Piatt": {
+    "found": false
+  },
+  "Elizabeth Bucar": {
+    "id": 2454619,
+    "name": "Elizabeth Duhn",
+    "avgRating": 5,
+    "avgDifficulty": 3,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Nursing"
+  },
+  "Kathryn Reiss": {
+    "id": 939896,
+    "name": "Kathryn Cady",
+    "avgRating": 3.9,
+    "avgDifficulty": 3,
+    "numRatings": 20,
+    "wouldTakeAgain": 100,
+    "department": "Communication"
+  },
+  "Sara Moezzi": {
+    "id": 1195239,
+    "name": "Sara Bianco",
+    "avgRating": 3.9,
+    "avgDifficulty": 1.9,
+    "numRatings": 8,
+    "wouldTakeAgain": -1,
+    "department": "Languages"
+  },
+  "Mauricio Santillana Guzman": {
+    "id": 2395417,
+    "name": "andrea guzman",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.9,
+    "numRatings": 9,
+    "wouldTakeAgain": 55.5556,
+    "department": "Communication"
+  },
+  "David White": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Alison Ottaviano": {
+    "id": 1365114,
+    "name": "Alison Lukowski",
+    "avgRating": 4,
+    "avgDifficulty": 3,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Not Specified"
+  },
+  "Andres Lopez Meza": {
+    "id": 1102768,
+    "name": "Andres Hijar",
+    "avgRating": 4.2,
+    "avgDifficulty": 3.3,
+    "numRatings": 11,
+    "wouldTakeAgain": 100,
+    "department": "History"
+  },
+  "Bruce Maxwell": {
+    "id": 1006022,
+    "name": "Bruce Novak",
+    "avgRating": 2.3,
+    "avgDifficulty": 3.7,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Alec Stubbs": {
+    "id": 1699226,
+    "name": "Alec Marketos",
+    "avgRating": 3.5,
+    "avgDifficulty": 3,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Business"
+  },
+  "Emanuel Cifuentes-Machado": {
+    "found": false
+  },
+  "Sarah Finn": {
+    "id": 1169234,
+    "name": "Sarah Evans",
+    "avgRating": 3,
+    "avgDifficulty": 3.7,
+    "numRatings": 23,
+    "wouldTakeAgain": 28.5714,
+    "department": "Art History"
+  },
+  "Justin Silvestri": {
+    "id": 1705345,
+    "name": "Justin Ness",
+    "avgRating": 4.4,
+    "avgDifficulty": 2.4,
+    "numRatings": 5,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Vincent Muscolino": {
+    "id": 253664,
+    "name": "Vincent McGinn",
+    "avgRating": 4.1,
+    "avgDifficulty": 4.1,
+    "numRatings": 55,
+    "wouldTakeAgain": 50,
+    "department": "Engineering"
+  },
+  "Yi Yin": {
+    "id": 64822,
+    "name": "Ying Kwong",
+    "avgRating": 3.8,
+    "avgDifficulty": 2.8,
+    "numRatings": 45,
+    "wouldTakeAgain": 76.9231,
+    "department": "Mathematics"
+  },
+  "Barbara Pierre": {
+    "id": 224111,
+    "name": "Barbara Jaffee",
+    "avgRating": 3.8,
+    "avgDifficulty": 2.8,
+    "numRatings": 22,
+    "wouldTakeAgain": 100,
+    "department": "Fine Arts"
+  },
+  "Katie Bruner": {
+    "id": 1863243,
+    "name": "Katie Heffernan",
+    "avgRating": 4.8,
+    "avgDifficulty": 3.8,
+    "numRatings": 4,
+    "wouldTakeAgain": -1,
+    "department": "Biology"
+  },
+  "Arpit Raj": {
+    "id": 3070469,
+    "name": "Reza Rajabi",
+    "avgRating": 3,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Marketing"
+  },
+  "Michelle Borkin": {
+    "id": 1187047,
+    "name": "Michelle Johnson",
+    "avgRating": 4.3,
+    "avgDifficulty": 1.6,
+    "numRatings": 9,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Elmaz Abinader": {
+    "found": false
+  },
+  "Hann Tu": {
+    "id": 2252420,
+    "name": "John Turnbull",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 1,
+    "wouldTakeAgain": 0,
+    "department": "English"
+  },
+  "Sheila Winborne": {
+    "id": 1812550,
+    "name": "Sheila Barrett",
+    "avgRating": 1.8,
+    "avgDifficulty": 2.4,
+    "numRatings": 13,
+    "wouldTakeAgain": 22.2222,
+    "department": "Nutrition & Foods"
+  },
+  "Stanley Eigen": {
+    "id": 1563467,
+    "name": "Jennifer Stanley",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Not Specified"
+  },
+  "William Lovely III": {
+    "id": 2547659,
+    "name": "William O'Conner",
+    "avgRating": 4.3,
+    "avgDifficulty": 3.1,
+    "numRatings": 11,
+    "wouldTakeAgain": 81.8182,
+    "department": "Mathematics"
+  },
+  "Alexander Lash": {
+    "id": 1114000,
+    "name": "Alex Lee",
+    "avgRating": 4.8,
+    "avgDifficulty": 2.2,
+    "numRatings": 30,
+    "wouldTakeAgain": -1,
+    "department": "Physics"
+  },
+  "Bethany Laatsch": {
+    "id": 2631013,
+    "name": "Bethany Cockburn",
+    "avgRating": 4.8,
+    "avgDifficulty": 2.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 75,
+    "department": "Management"
+  },
+  "Mark Miller": {
+    "id": 2436028,
+    "name": "Mark Mellon",
+    "avgRating": 4.6,
+    "avgDifficulty": 3.3,
+    "numRatings": 8,
+    "wouldTakeAgain": 87.5,
+    "department": "Accounting"
+  },
+  "Anthony Iarrobino": {
+    "id": 2441438,
+    "name": "Anthony McKee",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Health Science"
+  },
+  "Alessandro Vespignani": {
+    "found": false
+  },
+  "Sarah Hirschman": {
+    "id": 1169234,
+    "name": "Sarah Evans",
+    "avgRating": 3,
+    "avgDifficulty": 3.7,
+    "numRatings": 23,
+    "wouldTakeAgain": 28.5714,
+    "department": "Art History"
+  },
+  "Rajini Jesudason": {
+    "found": false
+  },
+  "Dan Provost": {
+    "id": 2028973,
+    "name": "Daniel Rogness",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.6,
+    "numRatings": 30,
+    "wouldTakeAgain": 20.8333,
+    "department": "Computer Science"
+  },
+  "David Herlihy": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Kristen Hanley Cardozo": {
+    "id": 140740,
+    "name": "Anne Hanley",
+    "avgRating": 3.8,
+    "avgDifficulty": 3.6,
+    "numRatings": 26,
+    "wouldTakeAgain": 50,
+    "department": "History"
+  },
+  "David Choffnes": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Anna Poor": {
+    "id": 3014008,
+    "name": "Anna White",
+    "avgRating": 2,
+    "avgDifficulty": 3.7,
+    "numRatings": 3,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Lino Coria Mendoza": {
+    "found": false
+  },
+  "Mark Grabiner": {
+    "id": 2436028,
+    "name": "Mark Mellon",
+    "avgRating": 4.6,
+    "avgDifficulty": 3.3,
+    "numRatings": 8,
+    "wouldTakeAgain": 87.5,
+    "department": "Accounting"
+  },
+  "Paul Champion": {
+    "id": 2490579,
+    "name": "Paul Prabhaker",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Marketing"
+  },
+  "Willis Bilderback": {
+    "id": 1214049,
+    "name": "Suzanne Willis",
+    "avgRating": 3.4,
+    "avgDifficulty": 2,
+    "numRatings": 8,
+    "wouldTakeAgain": -1,
+    "department": "Physics"
+  },
+  "Daniel Cuenca": {
+    "id": 2028973,
+    "name": "Daniel Rogness",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.6,
+    "numRatings": 30,
+    "wouldTakeAgain": 20.8333,
+    "department": "Computer Science"
+  },
+  "Herman Saksono": {
+    "id": 1392129,
+    "name": "Herman Schaumburg",
+    "avgRating": 2.5,
+    "avgDifficulty": 2.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 0,
+    "department": "Mathematics"
+  },
+  "Sagar Rajpal": {
+    "found": false
+  },
+  "Abir Saha": {
+    "id": 2259437,
+    "name": "Sahar Vahabzadeh",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.6,
+    "numRatings": 59,
+    "wouldTakeAgain": 67.7966,
+    "department": "Engineering"
+  },
+  "Luke Sherozia": {
+    "id": 2133455,
+    "name": "Clarissa Luke",
+    "avgRating": 3.3,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Health  Human Services"
+  },
+  "David Lang": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Dustin Steele": {
+    "id": 1497510,
+    "name": "Dustin Marquis",
+    "avgRating": 4.1,
+    "avgDifficulty": 1.9,
+    "numRatings": 8,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Louise Skinnari": {
+    "id": 181897,
+    "name": "Louise Ciallella",
+    "avgRating": 3.3,
+    "avgDifficulty": 3.7,
+    "numRatings": 32,
+    "wouldTakeAgain": -1,
+    "department": "Languages"
+  },
+  "David Brady": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Kanaka Saripalli": {
+    "found": false
+  },
+  "Otonye Braide-Moncoeur": {
+    "found": false
+  },
+  "Kate Terrado": {
+    "id": 2076532,
+    "name": "Kate Mead",
+    "avgRating": 5,
+    "avgDifficulty": 1.7,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Communication"
+  },
+  "Eve Young": {
+    "id": 2596057,
+    "name": "Young Huh",
+    "avgRating": 2,
+    "avgDifficulty": 3.4,
+    "numRatings": 27,
+    "wouldTakeAgain": 25.9259,
+    "department": "Mathematics"
+  },
+  "Bead Vidrine": {
+    "found": false
+  },
+  "Kayla Bates": {
+    "id": 2877762,
+    "name": "Kayla Beck",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Hubert Ho": {
+    "id": 375350,
+    "name": "Oliver Hofstetter",
+    "avgRating": 2.2,
+    "avgDifficulty": 4,
+    "numRatings": 47,
+    "wouldTakeAgain": 15.3846,
+    "department": "Chemistry"
+  },
+  "Yan Zhou": {
+    "id": 1265512,
+    "name": "Yan Wang",
+    "avgRating": 1.5,
+    "avgDifficulty": 3,
+    "numRatings": 4,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Laurel Ahnert": {
+    "id": 2404466,
+    "name": "Laurel Burman",
+    "avgRating": 1.3,
+    "avgDifficulty": 3.7,
+    "numRatings": 3,
+    "wouldTakeAgain": 0,
+    "department": "Education"
+  },
+  "Marigo Farr": {
+    "id": 490069,
+    "name": "Sean Farrell",
+    "avgRating": 4,
+    "avgDifficulty": 3.7,
+    "numRatings": 42,
+    "wouldTakeAgain": 66.6667,
+    "department": "History"
+  },
+  "Hongyang Zhang": {
+    "id": 3073191,
+    "name": "Bo Zhang",
+    "avgRating": 2.7,
+    "avgDifficulty": 3.7,
+    "numRatings": 3,
+    "wouldTakeAgain": 33.3333,
+    "department": "Engineering"
+  },
+  "Rushit Sanghrajka": {
+    "found": false
+  },
+  "Alessandra Di Credico": {
+    "found": false
+  },
+  "Edward Moss": {
+    "id": 501981,
+    "name": "Edward Callary",
+    "avgRating": 3.3,
+    "avgDifficulty": 3.2,
+    "numRatings": 27,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Oyeronke Ayansola": {
+    "found": false
+  },
+  "Shannon Creedon": {
+    "id": 2155081,
+    "name": "Shannon Becker",
+    "avgRating": 5,
+    "avgDifficulty": 2.4,
+    "numRatings": 10,
+    "wouldTakeAgain": 100,
+    "department": "Foreign Languages  Literature"
+  },
+  "Shaina Kaplan": {
+    "found": false
+  },
+  "Amy mcgreevy": {
+    "id": 2111134,
+    "name": "Amy Elbrecht",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "Matthew Webber": {
+    "id": 1340328,
+    "name": "Matthew Wiesner",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.1,
+    "numRatings": 14,
+    "wouldTakeAgain": 0,
+    "department": "Physics"
+  },
+  "Mehul Madhukar": {
+    "found": false
+  },
+  "Ashish Bulchandani": {
+    "found": false
+  },
+  "Christopher Wilson": {
+    "id": 2192322,
+    "name": "Christopher Lapeyre",
+    "avgRating": 1.7,
+    "avgDifficulty": 4,
+    "numRatings": 3,
+    "wouldTakeAgain": 0,
+    "department": "English"
+  },
+  "Saeed Yazdanian": {
+    "found": false
+  },
+  "Richeng Piao": {
+    "found": false
+  },
+  "Talia Vestri": {
+    "id": 848811,
+    "name": "Talia Pavia",
+    "avgRating": 3.8,
+    "avgDifficulty": 3.3,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "Music"
+  },
+  "Sami Rollins": {
+    "found": false
+  },
+  "Daniel Feinberg": {
+    "id": 2028973,
+    "name": "Daniel Rogness",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.6,
+    "numRatings": 30,
+    "wouldTakeAgain": 20.8333,
+    "department": "Computer Science"
+  },
+  "Jacob March": {
+    "id": 2192928,
+    "name": "Jacob Strohm",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Geography"
+  },
+  "Sylke Meyer": {
+    "found": false
+  },
+  "Grayson Kimball": {
+    "found": false
+  },
+  "Meghan Lakis": {
+    "id": 2143512,
+    "name": "Meghan Huntoon",
+    "avgRating": 4.7,
+    "avgDifficulty": 1.3,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Psychology"
+  },
+  "Yafeng Wang": {
+    "id": 921554,
+    "name": "Shei Chau Wang",
+    "avgRating": 3.4,
+    "avgDifficulty": 4.1,
+    "numRatings": 13,
+    "wouldTakeAgain": 60,
+    "department": "Fine Arts"
+  },
+  "Nicole Laffan": {
+    "id": 3009233,
+    "name": "Nicole  Scheuermann ",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Biology"
+  },
+  "Eliyahu Barzilay": {
+    "found": false
+  },
+  "Estefania Ciliotta Chehade": {
+    "found": false
+  },
+  "Valerie Pinchinat": {
+    "id": 479416,
+    "name": "Valerie Guyant",
+    "avgRating": 4.4,
+    "avgDifficulty": 1.7,
+    "numRatings": 10,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Hanna Christ": {
+    "id": 2832251,
+    "name": "Hanna Brown",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Brian Sheffer": {
+    "id": 919191,
+    "name": "Brian Sandberg",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.5,
+    "numRatings": 20,
+    "wouldTakeAgain": 66.6667,
+    "department": "History"
+  },
+  "Brooke Tempesta": {
+    "id": 2309402,
+    "name": "Brooke Randazzo",
+    "avgRating": 4.3,
+    "avgDifficulty": 3,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Mathematics"
+  },
+  "Yue Zhang": {
+    "id": 3073191,
+    "name": "Bo Zhang",
+    "avgRating": 2.7,
+    "avgDifficulty": 3.7,
+    "numRatings": 3,
+    "wouldTakeAgain": 33.3333,
+    "department": "Engineering"
+  },
+  "Gretchen Heefner": {
+    "id": 1297446,
+    "name": "Gretchen Schlabach",
+    "avgRating": 3,
+    "avgDifficulty": 2.7,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "Physical Education"
+  },
+  "Claudia Sokol": {
+    "found": false
+  },
+  "Angela Rojas-Merchan": {
+    "id": 2692368,
+    "name": "Angela Dixon",
+    "avgRating": 1,
+    "avgDifficulty": 4,
+    "numRatings": 1,
+    "wouldTakeAgain": 0,
+    "department": "Engineering"
+  },
+  "Mais Nijim": {
+    "found": false
+  },
+  "Christopher Robertson": {
+    "id": 2192322,
+    "name": "Christopher Lapeyre",
+    "avgRating": 1.7,
+    "avgDifficulty": 4,
+    "numRatings": 3,
+    "wouldTakeAgain": 0,
+    "department": "English"
+  },
+  "Prasanth George": {
+    "id": 351028,
+    "name": "George Slotsve",
+    "avgRating": 2.3,
+    "avgDifficulty": 3.7,
+    "numRatings": 45,
+    "wouldTakeAgain": 33.3333,
+    "department": "Economics"
+  },
+  "Nadim Saad": {
+    "id": 3119916,
+    "name": "Sameh Saad",
+    "avgRating": 5,
+    "avgDifficulty": 1.6,
+    "numRatings": 5,
+    "wouldTakeAgain": 100,
+    "department": "Mathematics"
+  },
+  "Meghan Bradley": {
+    "id": 2143512,
+    "name": "Meghan Huntoon",
+    "avgRating": 4.7,
+    "avgDifficulty": 1.3,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Psychology"
+  },
+  "Aaron Hoffman": {
+    "id": 172604,
+    "name": "Aaron Fogleman",
+    "avgRating": 3.2,
+    "avgDifficulty": 3.3,
+    "numRatings": 54,
+    "wouldTakeAgain": 61.5385,
+    "department": "History"
+  },
+  "Matthew Pitchford": {
+    "id": 2489233,
+    "name": "Matthew Pickard",
+    "avgRating": 2.5,
+    "avgDifficulty": 4.2,
+    "numRatings": 15,
+    "wouldTakeAgain": 40,
+    "department": "Accounting"
+  },
+  "Kari Jensen": {
+    "id": 2177800,
+    "name": "Kari Hickey",
+    "avgRating": 1.5,
+    "avgDifficulty": 4,
+    "numRatings": 2,
+    "wouldTakeAgain": 0,
+    "department": "Nursing"
+  },
+  "Gregory Aloupis": {
+    "id": 2295753,
+    "name": "Gregory Barker",
+    "avgRating": 5,
+    "avgDifficulty": 1.7,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "University Studies"
+  },
+  "Carla Brodley": {
+    "id": 1699227,
+    "name": "Carla Bendeich",
+    "avgRating": 4.6,
+    "avgDifficulty": 2,
+    "numRatings": 7,
+    "wouldTakeAgain": 100,
+    "department": "Business"
+  },
+  "Dimitre Tzigantchev": {
+    "found": false
+  },
+  "Dennis Svoronos": {
+    "id": 2442959,
+    "name": "Dennis DeBeck",
+    "avgRating": 4.8,
+    "avgDifficulty": 2.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "Communication"
+  },
+  "Mark Fontenot": {
+    "id": 2436028,
+    "name": "Mark Mellon",
+    "avgRating": 4.6,
+    "avgDifficulty": 3.3,
+    "numRatings": 8,
+    "wouldTakeAgain": 87.5,
+    "department": "Accounting"
+  },
+  "Elie Casbi": {
+    "found": false
+  },
+  "Timothy Edmunds": {
+    "id": 1447249,
+    "name": "Timothy Hagen",
+    "avgRating": 4.5,
+    "avgDifficulty": 3,
+    "numRatings": 26,
+    "wouldTakeAgain": 80,
+    "department": "Chemistry"
+  },
+  "Matthew Rudolph": {
+    "id": 1340328,
+    "name": "Matthew Wiesner",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.1,
+    "numRatings": 14,
+    "wouldTakeAgain": 0,
+    "department": "Physics"
+  },
+  "Daniel Matthew": {
+    "id": 2028973,
+    "name": "Daniel Rogness",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.6,
+    "numRatings": 30,
+    "wouldTakeAgain": 20.8333,
+    "department": "Computer Science"
+  },
+  "Aaron Block": {
+    "id": 172604,
+    "name": "Aaron Fogleman",
+    "avgRating": 3.2,
+    "avgDifficulty": 3.3,
+    "numRatings": 54,
+    "wouldTakeAgain": 61.5385,
+    "department": "History"
+  },
+  "David Smith": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Valentine Moghadam": {
+    "id": 2839480,
+    "name": "Jennifer Valentine",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Psychology"
+  },
+  "Jieying Jin": {
+    "id": 2673324,
+    "name": "Jinsook Kim",
+    "avgRating": 2,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Health & Human Services"
+  },
+  "Jordan Ballantyne": {
+    "id": 2679944,
+    "name": "Jordan Pennington",
+    "avgRating": 4.8,
+    "avgDifficulty": 2.9,
+    "numRatings": 8,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Michael Shah": {
+    "id": 1048473,
+    "name": "Michael Eraas",
+    "avgRating": 4.5,
+    "avgDifficulty": 2.4,
+    "numRatings": 78,
+    "wouldTakeAgain": 84.6154,
+    "department": "Mathematics"
+  },
+  "Ga Hye Song": {
+    "id": 2245273,
+    "name": "Yuquing Song",
+    "avgRating": 1,
+    "avgDifficulty": 4.3,
+    "numRatings": 3,
+    "wouldTakeAgain": 0,
+    "department": "Economics"
+  },
+  "Anis Abdulle": {
+    "found": false
+  },
+  "Joseph Rushanan": {
+    "id": 1941543,
+    "name": "Joseph Crundwell",
+    "avgRating": 4.9,
+    "avgDifficulty": 1.8,
+    "numRatings": 5,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Tianshi Li": {
+    "id": 151813,
+    "name": "Lisa Finkelstein",
+    "avgRating": 4.5,
+    "avgDifficulty": 2.3,
+    "numRatings": 67,
+    "wouldTakeAgain": 96.1538,
+    "department": "Psychology"
+  },
+  "Isabelle Grenier": {
+    "id": 159650,
+    "name": "Isabelle Sabau",
+    "avgRating": 2.7,
+    "avgDifficulty": 3.5,
+    "numRatings": 71,
+    "wouldTakeAgain": 0,
+    "department": "Art"
+  },
+  "Uzair Ahmad": {
+    "found": false
+  },
+  "Ayce Yesilaltay": {
+    "found": false
+  },
+  "Laurance Ginsberg": {
+    "found": false
+  },
+  "Ellen Noonan": {
+    "id": 2367597,
+    "name": "Ellen Lee",
+    "avgRating": 4.5,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Psychology"
+  },
+  "Stacy Marsella": {
+    "id": 1892832,
+    "name": "Stacy Zapadinsky",
+    "avgRating": 4.5,
+    "avgDifficulty": 1.5,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Communication Disorders"
+  },
+  "Katy Shorey": {
+    "id": 1782587,
+    "name": "Katy Bisby",
+    "avgRating": 3.7,
+    "avgDifficulty": 3.7,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "Art"
+  },
+  "Rachel Sandler": {
+    "id": 2766152,
+    "name": "Rachel Kowal",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Health Science"
+  },
+  "Crane Chen": {
+    "id": 1978335,
+    "name": "Kristie Crane",
+    "avgRating": 4.6,
+    "avgDifficulty": 2.7,
+    "numRatings": 24,
+    "wouldTakeAgain": 100,
+    "department": "Sociology"
+  },
+  "John Cornett": {
+    "id": 1935746,
+    "name": "John Strid",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 40,
+    "department": "English"
+  },
+  "Jose Sierra": {
+    "id": 2296719,
+    "name": "Jose Bello-Cruz",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.6,
+    "numRatings": 26,
+    "wouldTakeAgain": 50,
+    "department": "Mathematics"
+  },
+  "Mara Sidmore": {
+    "found": false
+  },
+  "Stacey Bourns": {
+    "id": 1791832,
+    "name": "Stacey Wilkes",
+    "avgRating": 5,
+    "avgDifficulty": 1.2,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "Psychology"
+  },
+  "Timothy Scholl": {
+    "id": 1447249,
+    "name": "Timothy Hagen",
+    "avgRating": 4.5,
+    "avgDifficulty": 3,
+    "numRatings": 26,
+    "wouldTakeAgain": 80,
+    "department": "Chemistry"
+  },
+  "Rei Inouye": {
+    "found": false
+  },
+  "Hazra Imran": {
+    "found": false
+  },
+  "Alma Bournazian": {
+    "found": false
+  },
+  "Eric Habjan": {
+    "id": 3124587,
+    "name": "Eric  Asiedu",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Matthew Hogancamp": {
+    "id": 1340328,
+    "name": "Matthew Wiesner",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.1,
+    "numRatings": 14,
+    "wouldTakeAgain": 0,
+    "department": "Physics"
+  },
+  "Sophia Ainslie": {
+    "found": false
+  },
+  "Katherine Chan": {
+    "id": 1980034,
+    "name": "Katherine Coulter",
+    "avgRating": 4.9,
+    "avgDifficulty": 2.6,
+    "numRatings": 5,
+    "wouldTakeAgain": 100,
+    "department": "Nursing"
+  },
+  "Cheng Tan": {
+    "id": 1888832,
+    "name": "Meg Cheng",
+    "avgRating": 2.1,
+    "avgDifficulty": 2.7,
+    "numRatings": 7,
+    "wouldTakeAgain": 50,
+    "department": "Economics"
+  },
+  "Alexandru Suciu": {
+    "found": false
+  },
+  "Bailey McAlister": {
+    "id": 2550929,
+    "name": "Bailey Kreager",
+    "avgRating": 1.9,
+    "avgDifficulty": 3.4,
+    "numRatings": 7,
+    "wouldTakeAgain": 28.5714,
+    "department": "Geology"
+  },
+  "Kai Yee Wan": {
+    "id": 264146,
+    "name": "Kai Zhang",
+    "avgRating": 2.6,
+    "avgDifficulty": 2.3,
+    "numRatings": 4,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Vance Ricks": {
+    "found": false
+  },
+  "Thomas Kelley": {
+    "id": 2067278,
+    "name": "Thomas Jacobs",
+    "avgRating": 4.2,
+    "avgDifficulty": 3.5,
+    "numRatings": 60,
+    "wouldTakeAgain": 85,
+    "department": "Finance"
+  },
+  "Ryan Shannon": {
+    "id": 2076622,
+    "name": "Maureen Ryan",
+    "avgRating": 4,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "John Hinson": {
+    "id": 1935746,
+    "name": "John Strid",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 40,
+    "department": "English"
+  },
+  "Olivia Harris": {
+    "id": 2251515,
+    "name": "Olivia Borne",
+    "avgRating": 1,
+    "avgDifficulty": 3.7,
+    "numRatings": 3,
+    "wouldTakeAgain": 0,
+    "department": "Education"
+  },
+  "Gabor Lippner": {
+    "found": false
+  },
+  "Richard Goldberg": {
+    "id": 218126,
+    "name": "Richard Blecksmith",
+    "avgRating": 2.6,
+    "avgDifficulty": 3.3,
+    "numRatings": 39,
+    "wouldTakeAgain": 28.5714,
+    "department": "Mathematics"
+  },
+  "Ziming Zhao": {
+    "found": false
+  },
+  "Matan Harel": {
+    "found": false
+  },
+  "Janine Olson": {
+    "id": 2592907,
+    "name": "Michelle Olson",
+    "avgRating": 2,
+    "avgDifficulty": 4.3,
+    "numRatings": 3,
+    "wouldTakeAgain": 0,
+    "department": "Education"
+  },
+  "Gene Cooperman": {
+    "id": 1406358,
+    "name": "Gene Roth",
+    "avgRating": 5,
+    "avgDifficulty": 4,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Allison Gallagher": {
+    "id": 3085998,
+    "name": "Allison Macheck",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "Frank Tip": {
+    "id": 338844,
+    "name": "Mark Frank",
+    "avgRating": 4,
+    "avgDifficulty": 3.7,
+    "numRatings": 35,
+    "wouldTakeAgain": 80,
+    "department": "Geology"
+  },
+  "Ericka Knudson": {
+    "id": 1693892,
+    "name": "Emily Knudson-Vileseca",
+    "avgRating": 3.3,
+    "avgDifficulty": 3.8,
+    "numRatings": 11,
+    "wouldTakeAgain": 62.5,
+    "department": "Foreign Languages"
+  },
+  "Kristin Madison": {
+    "id": 1055187,
+    "name": "Kristin McCullough",
+    "avgRating": 4.5,
+    "avgDifficulty": 3.3,
+    "numRatings": 7,
+    "wouldTakeAgain": 100,
+    "department": "Mathematics"
+  },
+  "Eduardo Sontag": {
+    "found": false
+  },
+  "Alden Jackson": {
+    "id": 3040795,
+    "name": "Ricky Jackson",
+    "avgRating": 3.8,
+    "avgDifficulty": 4.4,
+    "numRatings": 8,
+    "wouldTakeAgain": 62.5,
+    "department": "Fine Arts"
+  },
+  "Barbara Berenson": {
+    "id": 224111,
+    "name": "Barbara Jaffee",
+    "avgRating": 3.8,
+    "avgDifficulty": 2.8,
+    "numRatings": 22,
+    "wouldTakeAgain": 100,
+    "department": "Fine Arts"
+  },
+  "Laura Kenney": {
+    "id": 937575,
+    "name": "Laura Iandola",
+    "avgRating": 4.4,
+    "avgDifficulty": 1.9,
+    "numRatings": 8,
+    "wouldTakeAgain": -1,
+    "department": "History"
+  },
+  "Hugh Taylor": {
+    "id": 1265377,
+    "name": "David Taylor",
+    "avgRating": 2.6,
+    "avgDifficulty": 2.2,
+    "numRatings": 14,
+    "wouldTakeAgain": 36.3636,
+    "department": "Law"
+  },
+  "Julia Ivy": {
+    "id": 2929138,
+    "name": "Julia  Gutierez",
+    "avgRating": 4,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Ethnic Studies"
+  },
+  "Lindsay Jamieson": {
+    "id": 2844311,
+    "name": "Lindsay Vreeland",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Robert Lupi": {
+    "id": 14973,
+    "name": "Robert Rannie",
+    "avgRating": 2.6,
+    "avgDifficulty": 4.8,
+    "numRatings": 53,
+    "wouldTakeAgain": 0,
+    "department": "Computer Science"
+  },
+  "Jonathan Letai": {
+    "id": 1166296,
+    "name": "Jonathan Meshes",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "Alexandra Roth": {
+    "id": 565749,
+    "name": "Alexandra Bennett",
+    "avgRating": 2.6,
+    "avgDifficulty": 4.5,
+    "numRatings": 47,
+    "wouldTakeAgain": 9.0909,
+    "department": "English"
+  },
+  "Robert Platt": {
+    "id": 1368494,
+    "name": "Robert Jones",
+    "avgRating": 4.8,
+    "avgDifficulty": 3.2,
+    "numRatings": 5,
+    "wouldTakeAgain": 100,
+    "department": "Law"
+  },
+  "Adina Gitomer": {
+    "found": false
+  },
+  "Ilham Khuri-Makdisi": {
+    "found": false
+  },
+  "James Hudon": {
+    "id": 2110856,
+    "name": "James Cohen",
+    "avgRating": 3.5,
+    "avgDifficulty": 2.6,
+    "numRatings": 14,
+    "wouldTakeAgain": 57.1429,
+    "department": "Education"
+  },
+  "Dean Morier": {
+    "id": 878200,
+    "name": "Dennis Dean",
+    "avgRating": 3.6,
+    "avgDifficulty": 2.4,
+    "numRatings": 7,
+    "wouldTakeAgain": -1,
+    "department": "Finance"
+  },
+  "David Bau": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Shanu Sushmita": {
+    "found": false
+  },
+  "David Ober": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Jonathan Day": {
+    "id": 1975603,
+    "name": "Jonathan Lehuta",
+    "avgRating": 2.6,
+    "avgDifficulty": 3.9,
+    "numRatings": 52,
+    "wouldTakeAgain": 48.9362,
+    "department": "Computer Science"
+  },
+  "Shu-Shih Wu": {
+    "id": 2585970,
+    "name": "Jiao Wu",
+    "avgRating": 2.5,
+    "avgDifficulty": 4.3,
+    "numRatings": 10,
+    "wouldTakeAgain": 40,
+    "department": "Business"
+  },
+  "Jelena Golubovic": {
+    "found": false
+  },
+  "Lauren Rosenberg": {
+    "id": 1945900,
+    "name": "Lauren Tabakhi",
+    "avgRating": 4.9,
+    "avgDifficulty": 1.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Matthew Goodwin": {
+    "id": 494797,
+    "name": "Matthew Pamental",
+    "avgRating": 2.5,
+    "avgDifficulty": 3.8,
+    "numRatings": 53,
+    "wouldTakeAgain": 100,
+    "department": "Philosophy"
+  },
+  "Murat Uzer": {
+    "found": false
+  },
+  "Austin Hancock": {
+    "id": 1864377,
+    "name": "Austin Cebulske",
+    "avgRating": 5,
+    "avgDifficulty": 1.3,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "Music"
+  },
+  "Chris Geeng": {
+    "id": 2099983,
+    "name": "Christopher Brough",
+    "avgRating": 4.2,
+    "avgDifficulty": 2.7,
+    "numRatings": 7,
+    "wouldTakeAgain": 80,
+    "department": "Political Science"
+  },
+  "Liwei Weng": {
+    "found": false
+  },
+  "Hayes Handler": {
+    "found": false
+  },
+  "Kylie Bemis": {
+    "found": false
+  },
+  "Kristina Faul": {
+    "id": 1371256,
+    "name": "Kristina Hoogstra",
+    "avgRating": 4.5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Physical Education"
+  },
+  "David Massey": {
+    "id": 518972,
+    "name": "David Valentiner",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 25,
+    "wouldTakeAgain": 0,
+    "department": "Psychology"
+  },
+  "Dylan Gay": {
+    "id": 2692477,
+    "name": "Dylan Rambow",
+    "avgRating": 2.5,
+    "avgDifficulty": 3.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 50,
+    "department": "Mathematics"
+  },
+  "Evisa Bogdani": {
+    "found": false
+  },
+  "Audrey Lindsay": {
+    "id": 3035145,
+    "name": "Lindsay Murphy",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Psychology"
+  },
+  "Chieh Wu": {
+    "id": 2585970,
+    "name": "Jiao Wu",
+    "avgRating": 2.5,
+    "avgDifficulty": 4.3,
+    "numRatings": 10,
+    "wouldTakeAgain": 40,
+    "department": "Business"
+  },
+  "Tyrone Newsome": {
+    "found": false
+  },
+  "Sarita Singh": {
+    "id": 3010878,
+    "name": "Sarita Connelly",
+    "avgRating": 1,
+    "avgDifficulty": 5,
+    "numRatings": 1,
+    "wouldTakeAgain": 0,
+    "department": "Theater"
+  },
+  "Mitchell Wand": {
+    "id": 1833410,
+    "name": "Mitchell Irwin",
+    "avgRating": 3.9,
+    "avgDifficulty": 3.5,
+    "numRatings": 17,
+    "wouldTakeAgain": 87.5,
+    "department": "Anthropology"
+  },
+  "Claire Wassinger": {
+    "id": 2441115,
+    "name": "Claire Zvosec",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Marketing"
+  },
+  "Aaron Hunter": {
+    "id": 172604,
+    "name": "Aaron Fogleman",
+    "avgRating": 3.2,
+    "avgDifficulty": 3.3,
+    "numRatings": 54,
+    "wouldTakeAgain": 61.5385,
+    "department": "History"
+  },
+  "Megan Doe": {
+    "id": 2423553,
+    "name": "Megan Kennedy",
+    "avgRating": 5,
+    "avgDifficulty": 1.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 100,
+    "department": "Psychology"
+  },
+  "Molly Herbert": {
+    "id": 2775854,
+    "name": "Molly Pasley",
+    "avgRating": 4.5,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Education"
+  },
+  "Benjamin Floman": {
+    "id": 3000188,
+    "name": "Ben Zandi",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Engineering"
+  },
+  "Nazanin Bani Amerian": {
+    "found": false
+  },
+  "Judith Richman": {
+    "id": 128827,
+    "name": "Judy Santacaterina",
+    "avgRating": 3.8,
+    "avgDifficulty": 3.2,
+    "numRatings": 16,
+    "wouldTakeAgain": 0,
+    "department": "Communication"
+  },
+  "Vasiliki Lykourinou": {
+    "found": false
+  },
+  "Ildar Akhmetov": {
+    "found": false
+  },
+  "Robert Eidson": {
+    "id": 14973,
+    "name": "Robert Rannie",
+    "avgRating": 2.6,
+    "avgDifficulty": 4.8,
+    "numRatings": 53,
+    "wouldTakeAgain": 0,
+    "department": "Computer Science"
+  },
+  "Oleg Batishchev": {
+    "found": false
+  },
+  "Elena Strange": {
+    "found": false
+  },
+  "Samuel Dai": {
+    "id": 2344944,
+    "name": "Samuel Baker",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Business"
+  },
+  "Levi Watts": {
+    "found": false
+  },
+  "Vincent Capone": {
+    "id": 253664,
+    "name": "Vincent McGinn",
+    "avgRating": 4.1,
+    "avgDifficulty": 4.1,
+    "numRatings": 55,
+    "wouldTakeAgain": 50,
+    "department": "Engineering"
+  },
+  "Kishan Gupta": {
+    "id": 1611491,
+    "name": "Suman Gupta",
+    "avgRating": 3.5,
+    "avgDifficulty": 3,
+    "numRatings": 3,
+    "wouldTakeAgain": 0,
+    "department": "Mathematics"
+  },
+  "Peggy O&#39;Kelly": {
+    "id": 704879,
+    "name": "Peggy Durbala",
+    "avgRating": 4.5,
+    "avgDifficulty": 2.1,
+    "numRatings": 29,
+    "wouldTakeAgain": -1,
+    "department": "Languages"
+  },
+  "Laurie Nardone": {
+    "id": 2917124,
+    "name": "Laurie Spencer",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Biology"
+  },
+  "Ken Chung": {
+    "id": 310898,
+    "name": "Ken Elliott",
+    "avgRating": 2.8,
+    "avgDifficulty": 3.8,
+    "numRatings": 32,
+    "wouldTakeAgain": 100,
+    "department": "Business"
+  },
+  "Wolfgang Gatterbauer": {
+    "found": false
+  },
+  "Youna Jung": {
+    "id": 1751555,
+    "name": "Jung Lee",
+    "avgRating": 3.9,
+    "avgDifficulty": 2.9,
+    "numRatings": 16,
+    "wouldTakeAgain": 83.3333,
+    "department": "Business"
+  },
+  "Juan Colomina-Alminana": {
+    "id": 1938332,
+    "name": "Juan  Colon",
+    "avgRating": 3.4,
+    "avgDifficulty": 4.3,
+    "numRatings": 7,
+    "wouldTakeAgain": -1,
+    "department": "Physics"
+  },
+  "Hendrikus Derksen": {
+    "found": false
+  },
+  "Aliyah Bridgett-Cola": {
+    "found": false
+  },
+  "Abigail McCabe": {
+    "id": 2190372,
+    "name": "Mike McCabe",
+    "avgRating": 4.7,
+    "avgDifficulty": 3.4,
+    "numRatings": 11,
+    "wouldTakeAgain": 100,
+    "department": "Mathematics"
+  },
+  "Lauren Chacho": {
+    "id": 1945900,
+    "name": "Lauren Tabakhi",
+    "avgRating": 4.9,
+    "avgDifficulty": 1.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Michael McCluskey": {
+    "id": 2096521,
+    "name": "Mike Rea",
+    "avgRating": 2.1,
+    "avgDifficulty": 3,
+    "numRatings": 8,
+    "wouldTakeAgain": 25,
+    "department": "Fine Arts"
+  },
+  "Margaret Loscuito": {
+    "id": 2070582,
+    "name": "Margaret Scanlan",
+    "avgRating": 1.7,
+    "avgDifficulty": 3.5,
+    "numRatings": 15,
+    "wouldTakeAgain": 13.3333,
+    "department": "English"
+  },
+  "Chinekwu Owoh": {
+    "found": false
+  },
+  "He Wang": {
+    "id": 2457139,
+    "name": "Chaoran He",
+    "avgRating": 3.8,
+    "avgDifficulty": 3.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 75,
+    "department": "Economics"
+  },
+  "Irem Kilic": {
+    "found": false
+  },
+  "Hsiao-an Wang": {
+    "id": 921554,
+    "name": "Shei Chau Wang",
+    "avgRating": 3.4,
+    "avgDifficulty": 4.1,
+    "numRatings": 13,
+    "wouldTakeAgain": 60,
+    "department": "Fine Arts"
+  },
+  "Therapon Skoteiniotis": {
+    "found": false
+  },
+  "Peter Fraunholtz": {
+    "id": 1136009,
+    "name": "Peter Magnusson",
+    "avgRating": 3.6,
+    "avgDifficulty": 2.9,
+    "numRatings": 9,
+    "wouldTakeAgain": 0,
+    "department": "Marketing"
+  },
+  "Anthony Mullen": {
+    "id": 2441438,
+    "name": "Anthony McKee",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Health Science"
+  },
+  "Fiona Stewart-Taylor": {
+    "found": false
+  },
+  "Antonio Ocampo-Guzman": {
+    "found": false
+  },
+  "Elettra Bietti": {
+    "found": false
+  },
+  "Quinton Reece": {
+    "found": false
+  },
+  "Adriel Antoine": {
+    "id": 259724,
+    "name": "Antoinette Brazouski",
+    "avgRating": 3.7,
+    "avgDifficulty": 2.4,
+    "numRatings": 35,
+    "wouldTakeAgain": -1,
+    "department": "Languages"
+  },
+  "Amilcar Barreto": {
+    "found": false
+  },
+  "Heather Littlefield": {
+    "id": 2337717,
+    "name": "Heather Walder",
+    "avgRating": 4.7,
+    "avgDifficulty": 2.7,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Anthropology"
+  },
+  "Eliza Osorio": {
+    "found": false
+  },
+  "Abigail Crain": {
+    "found": false
+  },
+  "Jonathan Huggins": {
+    "id": 1166296,
+    "name": "Jonathan Meshes",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "John Park": {
+    "id": 1935746,
+    "name": "John Strid",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 40,
+    "department": "English"
+  },
+  "John Blackwell": {
+    "id": 1935746,
+    "name": "John Strid",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 40,
+    "department": "English"
+  },
+  "Benjamin Peek": {
+    "id": 3000188,
+    "name": "Ben Zandi",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Engineering"
+  },
+  "Carlos Sandoval Olascoaga": {
+    "id": 2079856,
+    "name": "Carlos Pulido",
+    "avgRating": 1.8,
+    "avgDifficulty": 3.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 0,
+    "department": "Economics"
+  },
+  "Mohit Singhal": {
+    "found": false
+  },
+  "Emanuele Viola": {
+    "found": false
+  },
+  "Sara Mohamed": {
+    "id": 3127785,
+    "name": "Sara Rogers",
+    "avgRating": 3.5,
+    "avgDifficulty": 3,
+    "numRatings": 2,
+    "wouldTakeAgain": 50,
+    "department": "Biology"
+  },
+  "Maria Catrina Jaime": {
+    "id": 1376856,
+    "name": "Maria Stefenel",
+    "avgRating": 3.4,
+    "avgDifficulty": 2.8,
+    "numRatings": 26,
+    "wouldTakeAgain": 52.381,
+    "department": "Communication"
+  },
+  "Jie Xu": {
+    "id": 104147,
+    "name": "Jie Song",
+    "avgRating": 3.1,
+    "avgDifficulty": 3,
+    "numRatings": 26,
+    "wouldTakeAgain": -1,
+    "department": "Geography"
+  },
+  "Sheila Puffer": {
+    "id": 1812550,
+    "name": "Sheila Barrett",
+    "avgRating": 1.8,
+    "avgDifficulty": 2.4,
+    "numRatings": 13,
+    "wouldTakeAgain": 22.2222,
+    "department": "Nutrition & Foods"
+  },
+  "Alan Mislove": {
+    "id": 358187,
+    "name": "Alan Clemens",
+    "avgRating": 4.3,
+    "avgDifficulty": 1.7,
+    "numRatings": 56,
+    "wouldTakeAgain": 75,
+    "department": "Education"
+  },
+  "Ernest Mauristhene": {
+    "found": false
+  },
+  "Thea Celestine": {
+    "found": false
+  },
+  "Predrag Radivojac": {
+    "found": false
+  },
+  "Lok Sang Wong": {
+    "found": false
+  },
+  "Mary Hale": {
+    "id": 181911,
+    "name": "Mary Cozad",
+    "avgRating": 3.8,
+    "avgDifficulty": 2.1,
+    "numRatings": 24,
+    "wouldTakeAgain": 57.1429,
+    "department": "Languages"
+  },
+  "Charlene Betts-Ng": {
+    "found": false
+  },
+  "Nathan Zelesko": {
+    "id": 1932785,
+    "name": "Nathan Blake",
+    "avgRating": 2.4,
+    "avgDifficulty": 2.8,
+    "numRatings": 5,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Yanet Canavan": {
+    "id": 1041662,
+    "name": "Anne Canavan",
+    "avgRating": 4.4,
+    "avgDifficulty": 1.9,
+    "numRatings": 8,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Kristin Simon": {
+    "id": 1055187,
+    "name": "Kristin McCullough",
+    "avgRating": 4.5,
+    "avgDifficulty": 3.3,
+    "numRatings": 7,
+    "wouldTakeAgain": 100,
+    "department": "Mathematics"
+  },
+  "Ellen Spertus": {
+    "id": 2367597,
+    "name": "Ellen Lee",
+    "avgRating": 4.5,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Psychology"
+  },
+  "Lucy Bunning": {
+    "id": 377840,
+    "name": "Lucy Townsend",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.3,
+    "numRatings": 6,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Nicole Snyder": {
+    "id": 1817395,
+    "name": "Nicole Autry",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Dori Woods": {
+    "id": 466665,
+    "name": "Sheldon Woods",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.6,
+    "numRatings": 21,
+    "wouldTakeAgain": 0,
+    "department": "Education"
+  },
+  "Giuliano Porciuncula Guedes": {
+    "found": false
+  },
+  "John Guilfoil": {
+    "id": 1935746,
+    "name": "John Strid",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 40,
+    "department": "English"
+  },
+  "Jeongkyu Lee": {
+    "id": 514684,
+    "name": "Lee Sunderlin",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.6,
+    "numRatings": 55,
+    "wouldTakeAgain": 17.6471,
+    "department": "Chemistry"
+  },
+  "Jennifer Lacroix": {
+    "id": 1643515,
+    "name": "Jennifer Eden",
+    "avgRating": 4.9,
+    "avgDifficulty": 2.5,
+    "numRatings": 4,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Nancy Kimelman": {
+    "id": 524337,
+    "name": "Nancy Russo",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.5,
+    "numRatings": 22,
+    "wouldTakeAgain": -1,
+    "department": "Business"
+  },
+  "Elise Dallimore": {
+    "id": 2306861,
+    "name": "Elise Fredricks",
+    "avgRating": 4,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Marketing"
+  },
+  "Francisco Noriega": {
+    "id": 168142,
+    "name": "Francisco Solares",
+    "avgRating": 4.2,
+    "avgDifficulty": 2.8,
+    "numRatings": 37,
+    "wouldTakeAgain": 76.9231,
+    "department": "Languages"
+  },
+  "Mirek Riedewald": {
+    "found": false
+  },
+  "Jennifer Ingemi": {
+    "id": 1643515,
+    "name": "Jennifer Eden",
+    "avgRating": 4.9,
+    "avgDifficulty": 2.5,
+    "numRatings": 4,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Catherine Kareores": {
+    "id": 592276,
+    "name": "Catherine Maney",
+    "avgRating": 4.2,
+    "avgDifficulty": 3,
+    "numRatings": 9,
+    "wouldTakeAgain": -1,
+    "department": "Nursing"
+  },
+  "Rachel Toncelli": {
+    "id": 2766152,
+    "name": "Rachel Kowal",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Health Science"
+  },
+  "Oana Veliche": {
+    "found": false
+  },
+  "Jonathan Esole": {
+    "id": 1975603,
+    "name": "Jonathan Lehuta",
+    "avgRating": 2.6,
+    "avgDifficulty": 3.9,
+    "numRatings": 52,
+    "wouldTakeAgain": 48.9362,
+    "department": "Computer Science"
+  },
+  "Anwar Mamat": {
+    "found": false
+  },
+  "Dennis Jjuuko": {
+    "id": 2442959,
+    "name": "Dennis DeBeck",
+    "avgRating": 4.8,
+    "avgDifficulty": 2.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "Communication"
+  },
+  "Ayako Anderson": {
+    "id": 254261,
+    "name": "Madelyn Anderson",
+    "avgRating": 4.7,
+    "avgDifficulty": 1.9,
+    "numRatings": 60,
+    "wouldTakeAgain": 85.7143,
+    "department": "Communication"
+  },
+  "Elizabeth Mynatt": {
+    "id": 2454619,
+    "name": "Elizabeth Duhn",
+    "avgRating": 5,
+    "avgDifficulty": 3,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Nursing"
+  },
+  "Xiaoyi Yang": {
+    "found": false
+  },
+  "Brianne Mui": {
+    "found": false
+  },
+  "Rashnide Aguy": {
+    "found": false
+  },
+  "Tommaso Melodia": {
+    "found": false
+  },
+  "Brent Griffin": {
+    "id": 2004303,
+    "name": "Brent Steffens",
+    "avgRating": 3,
+    "avgDifficulty": 3.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 33.3333,
+    "department": "Psychology"
+  },
+  "Nathan Blake": {
+    "id": 1932785,
+    "name": "Nathan Blake",
+    "avgRating": 2.4,
+    "avgDifficulty": 2.8,
+    "numRatings": 5,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Kamrul Hasan": {
+    "id": 2394867,
+    "name": "Hasan Ferdowsi",
+    "avgRating": 3.9,
+    "avgDifficulty": 2.9,
+    "numRatings": 7,
+    "wouldTakeAgain": 71.4286,
+    "department": "Engineering"
+  },
+  "Rozanna Riley": {
+    "id": 1823876,
+    "name": "Carolyn Riley",
+    "avgRating": 4.2,
+    "avgDifficulty": 2.3,
+    "numRatings": 7,
+    "wouldTakeAgain": 80,
+    "department": "Education"
+  },
+  "Eunsong Kim": {
+    "id": 785894,
+    "name": "Kimberly Gatz",
+    "avgRating": 4.2,
+    "avgDifficulty": 2.3,
+    "numRatings": 39,
+    "wouldTakeAgain": 76.4706,
+    "department": "Communication"
+  },
+  "Gaston de los Reyes": {
+    "id": 1717927,
+    "name": "Maria De Avila",
+    "avgRating": 2.5,
+    "avgDifficulty": 4.7,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "Foreign Languages"
+  },
+  "Emily Gregory": {
+    "id": 1693892,
+    "name": "Emily Knudson-Vileseca",
+    "avgRating": 3.3,
+    "avgDifficulty": 3.8,
+    "numRatings": 11,
+    "wouldTakeAgain": 62.5,
+    "department": "Foreign Languages"
+  },
+  "Matthew Williams": {
+    "id": 1340328,
+    "name": "Matthew Wiesner",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.1,
+    "numRatings": 14,
+    "wouldTakeAgain": 0,
+    "department": "Physics"
+  },
+  "Caitlin Goldblum": {
+    "id": 2516769,
+    "name": "Caitlin Gamble",
+    "avgRating": 4.8,
+    "avgDifficulty": 1.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Deboorah Milbauer": {
+    "found": false
+  },
+  "Sasha Goldman": {
+    "found": false
+  },
+  "Francis Georges": {
+    "found": false
+  },
+  "Kathleen Kelly": {
+    "id": 2989153,
+    "name": "Kathleen  Chambers",
+    "avgRating": 1,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": 0,
+    "department": "Nursing"
+  },
+  "Abigail Williams": {
+    "id": 1392604,
+    "name": "Passion Williamson",
+    "avgRating": 5,
+    "avgDifficulty": 1.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "University Studies"
+  },
+  "Carie Hersh": {
+    "found": false
+  },
+  "Yunhao Zhu": {
+    "id": 399500,
+    "name": "Zhuan Ye",
+    "avgRating": 4.2,
+    "avgDifficulty": 3.3,
+    "numRatings": 23,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "James Gutierrez": {
+    "id": 2110856,
+    "name": "James Cohen",
+    "avgRating": 3.5,
+    "avgDifficulty": 2.6,
+    "numRatings": 14,
+    "wouldTakeAgain": 57.1429,
+    "department": "Education"
+  },
+  "Caitlin Thornbrugh": {
+    "id": 2516769,
+    "name": "Caitlin Gamble",
+    "avgRating": 4.8,
+    "avgDifficulty": 1.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Caglar Yildirim": {
+    "found": false
+  },
+  "Jessica Staddon": {
+    "id": 1274189,
+    "name": "Jessica Guzman",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Ivan Rupnik": {
+    "found": false
+  },
+  "Joseph Schwartz": {
+    "id": 1941543,
+    "name": "Joseph Crundwell",
+    "avgRating": 4.9,
+    "avgDifficulty": 1.8,
+    "numRatings": 5,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Jesse Green": {
+    "id": 1724137,
+    "name": "Jesse Segers",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Management"
+  },
+  "Michele Rosenthal": {
+    "id": 2190079,
+    "name": "Michele Kaczka",
+    "avgRating": 5,
+    "avgDifficulty": 1.9,
+    "numRatings": 9,
+    "wouldTakeAgain": 100,
+    "department": "Marketing"
+  },
+  "Lucas Silveira": {
+    "id": 1566863,
+    "name": "Lucas Krueger",
+    "avgRating": 2.9,
+    "avgDifficulty": 3.3,
+    "numRatings": 6,
+    "wouldTakeAgain": -1,
+    "department": "Theater"
+  },
+  "Michal Aibin": {
+    "found": false
+  },
+  "Jennifer Ausiello": {
+    "id": 1643515,
+    "name": "Jennifer Eden",
+    "avgRating": 4.9,
+    "avgDifficulty": 2.5,
+    "numRatings": 4,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Jenna King": {
+    "id": 1960047,
+    "name": "Jenna Dooley",
+    "avgRating": 4.5,
+    "avgDifficulty": 1.5,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Rima Farah": {
+    "id": 3061081,
+    "name": "Farah Ishaq",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Physical Education"
+  },
+  "Shakir Mustafa": {
+    "found": false
+  },
+  "Yanzhi Wang": {
+    "id": 921554,
+    "name": "Shei Chau Wang",
+    "avgRating": 3.4,
+    "avgDifficulty": 4.1,
+    "numRatings": 13,
+    "wouldTakeAgain": 60,
+    "department": "Fine Arts"
+  },
+  "Jeannette Guillemin": {
+    "found": false
+  },
+  "Malcolm Purinton": {
+    "found": false
+  },
+  "Susan Wang": {
+    "id": 1611080,
+    "name": "Susan Russel",
+    "avgRating": 1,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Anthropology"
+  },
+  "V Lange": {
+    "found": false
+  },
+  "Rosa Alvis": {
+    "found": false
+  },
+  "Maria Tomeho-Palermino": {
+    "id": 1945046,
+    "name": "Maria  Ponomerova",
+    "avgRating": 1.8,
+    "avgDifficulty": 3.5,
+    "numRatings": 8,
+    "wouldTakeAgain": 50,
+    "department": "Economics"
+  },
+  "Byron Wallace": {
+    "id": 230320,
+    "name": "Douglas Wallace",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.7,
+    "numRatings": 59,
+    "wouldTakeAgain": 55,
+    "department": "Psychology"
+  },
+  "Tina Eliassi-Rad": {
+    "found": false
+  },
+  "Brent Hailpern": {
+    "id": 2004303,
+    "name": "Brent Steffens",
+    "avgRating": 3,
+    "avgDifficulty": 3.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 33.3333,
+    "department": "Psychology"
+  },
+  "Thandiwe Dinani": {
+    "found": false
+  },
+  "Michael Gonyeau": {
+    "id": 2096521,
+    "name": "Mike Rea",
+    "avgRating": 2.1,
+    "avgDifficulty": 3,
+    "numRatings": 8,
+    "wouldTakeAgain": 25,
+    "department": "Fine Arts"
+  },
+  "Stefan Kautsch": {
+    "found": false
+  },
+  "Catherine Merlo": {
+    "id": 592276,
+    "name": "Catherine Maney",
+    "avgRating": 4.2,
+    "avgDifficulty": 3,
+    "numRatings": 9,
+    "wouldTakeAgain": -1,
+    "department": "Nursing"
+  },
+  "Cassandra McMillan": {
+    "id": 1227014,
+    "name": "Cassandra Crawford",
+    "avgRating": 2.6,
+    "avgDifficulty": 3.9,
+    "numRatings": 34,
+    "wouldTakeAgain": 33.3333,
+    "department": "Sociology"
+  },
+  "vanessa friedman": {
+    "found": false
+  },
+  "Erinda Shyta": {
+    "found": false
+  },
+  "Molly Domino": {
+    "id": 500928,
+    "name": "Molly Swick",
+    "avgRating": 4.7,
+    "avgDifficulty": 1.5,
+    "numRatings": 143,
+    "wouldTakeAgain": 95.2381,
+    "department": "Education"
+  },
+  "Natasha Odama": {
+    "found": false
+  },
+  "Christina Williams": {
+    "id": 2637407,
+    "name": "Christina Cline",
+    "avgRating": 4.8,
+    "avgDifficulty": 3,
+    "numRatings": 6,
+    "wouldTakeAgain": 100,
+    "department": "Biology"
+  },
+  "Matthew Hitchcock": {
+    "id": 494797,
+    "name": "Matthew Pamental",
+    "avgRating": 2.5,
+    "avgDifficulty": 3.8,
+    "numRatings": 53,
+    "wouldTakeAgain": 100,
+    "department": "Philosophy"
+  },
+  "David Rosen": {
+    "id": 2422613,
+    "name": "David Rosenfeld",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Law"
+  },
+  "Beth Smith": {
+    "id": 438918,
+    "name": "Beth Lulinski",
+    "avgRating": 4.3,
+    "avgDifficulty": 1.5,
+    "numRatings": 44,
+    "wouldTakeAgain": 90.9091,
+    "department": "Nutrition & Foods"
+  },
+  "Zhiyuan Zhang": {
+    "id": 3073191,
+    "name": "Bo Zhang",
+    "avgRating": 2.7,
+    "avgDifficulty": 3.7,
+    "numRatings": 3,
+    "wouldTakeAgain": 33.3333,
+    "department": "Engineering"
+  },
+  "Olin Shivers III": {
+    "found": false
+  },
+  "Everson Da Silva Gomes": {
+    "id": 1577871,
+    "name": "Guilherme Silva",
+    "avgRating": 3,
+    "avgDifficulty": 4,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Political Science"
+  },
+  "Sophia Day": {
+    "id": 197779,
+    "name": "Michael Day",
+    "avgRating": 3.7,
+    "avgDifficulty": 2.8,
+    "numRatings": 9,
+    "wouldTakeAgain": 50,
+    "department": "English"
+  },
+  "Sarah Harrison": {
+    "id": 1169234,
+    "name": "Sarah Evans",
+    "avgRating": 3,
+    "avgDifficulty": 3.7,
+    "numRatings": 23,
+    "wouldTakeAgain": 28.5714,
+    "department": "Art History"
+  },
+  "Samantha Jones": {
+    "id": 2490168,
+    "name": "Samantha Gibson",
+    "avgRating": 3.7,
+    "avgDifficulty": 2.3,
+    "numRatings": 3,
+    "wouldTakeAgain": 66.6667,
+    "department": "Marketing"
+  },
+  "Tamara Jimah": {
+    "id": 190171,
+    "name": "Tamara Phelan",
+    "avgRating": 3.1,
+    "avgDifficulty": 2.6,
+    "numRatings": 42,
+    "wouldTakeAgain": 28.5714,
+    "department": "Accounting"
+  },
+  "Zohreh Firouzabadian": {
+    "found": false
+  },
+  "Christopher Bosso": {
+    "id": 2192322,
+    "name": "Christopher Lapeyre",
+    "avgRating": 1.7,
+    "avgDifficulty": 4,
+    "numRatings": 3,
+    "wouldTakeAgain": 0,
+    "department": "English"
+  },
+  "Susan Mello": {
+    "id": 1611080,
+    "name": "Susan Russel",
+    "avgRating": 1,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Anthropology"
+  },
+  "Joshua Belfiore": {
+    "id": 2669721,
+    "name": "Joshua Boley",
+    "avgRating": 1.5,
+    "avgDifficulty": 4.3,
+    "numRatings": 4,
+    "wouldTakeAgain": 25,
+    "department": "Computer Science"
+  },
+  "Diane Duchardt": {
+    "id": 893519,
+    "name": "Diane Rodgers",
+    "avgRating": 4,
+    "avgDifficulty": 3,
+    "numRatings": 27,
+    "wouldTakeAgain": 75,
+    "department": "Sociology"
+  },
+  "Alexandra To": {
+    "id": 565749,
+    "name": "Alexandra Bennett",
+    "avgRating": 2.6,
+    "avgDifficulty": 4.5,
+    "numRatings": 47,
+    "wouldTakeAgain": 9.0909,
+    "department": "English"
+  },
+  "Takeshi Oda": {
+    "found": false
+  },
+  "Jennifer Sharp": {
+    "id": 2910028,
+    "name": "Jennifer Sharp",
+    "avgRating": 4.5,
+    "avgDifficulty": 2.8,
+    "numRatings": 11,
+    "wouldTakeAgain": 81.8182,
+    "department": "Nursing"
+  },
+  "Eliot Sherman": {
+    "found": false
+  },
+  "Chad Lee-Stronach": {
+    "id": 1055184,
+    "name": "Chad Suhr",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Physics"
+  },
+  "Stephen Intille": {
+    "id": 1966870,
+    "name": "Stephen Martin",
+    "avgRating": 5,
+    "avgDifficulty": 4.3,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "Physics"
+  },
+  "Michelle Fiorenza-Hagopian": {
+    "id": 1187047,
+    "name": "Michelle Johnson",
+    "avgRating": 4.3,
+    "avgDifficulty": 1.6,
+    "numRatings": 9,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Neda Changizi": {
+    "found": false
+  },
+  "Iffat Khan": {
+    "id": 2910564,
+    "name": "Rahul Khanke",
+    "avgRating": 3,
+    "avgDifficulty": 3.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 25,
+    "department": "Chemistry"
+  },
+  "Benjamin Lerner": {
+    "id": 3000188,
+    "name": "Ben Zandi",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Engineering"
+  },
+  "Vance Blankers": {
+    "found": false
+  },
+  "Natalia Masic": {
+    "found": false
+  },
+  "Michelle Taylor": {
+    "id": 1187047,
+    "name": "Michelle Johnson",
+    "avgRating": 4.3,
+    "avgDifficulty": 1.6,
+    "numRatings": 9,
+    "wouldTakeAgain": 100,
+    "department": "English"
+  },
+  "Rahul Hirwani": {
+    "id": 2910564,
+    "name": "Rahul Khanke",
+    "avgRating": 3,
+    "avgDifficulty": 3.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 25,
+    "department": "Chemistry"
+  },
+  "Brianna Dym": {
+    "found": false
+  },
+  "Olivia Ordonez": {
+    "id": 2251515,
+    "name": "Olivia Borne",
+    "avgRating": 1,
+    "avgDifficulty": 3.7,
+    "numRatings": 3,
+    "wouldTakeAgain": 0,
+    "department": "Education"
+  },
+  "Mario Nascimento": {
+    "id": 1982307,
+    "name": "Mario Borha",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "Laura Senier": {
+    "id": 937575,
+    "name": "Laura Iandola",
+    "avgRating": 4.4,
+    "avgDifficulty": 1.9,
+    "numRatings": 8,
+    "wouldTakeAgain": -1,
+    "department": "History"
+  },
+  "Vince Montes": {
+    "found": false
+  },
+  "Christina Folsom": {
+    "id": 2892170,
+    "name": "Christina Abreu",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "History"
+  },
+  "Joshua Hertz": {
+    "id": 3068971,
+    "name": "Joshua Ireland",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Physical Education"
+  },
+  "Zachary Agatstein": {
+    "id": 1165223,
+    "name": "Zachary Lutz",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "History"
+  },
+  "Caitlyn Griffin": {
+    "id": 2425285,
+    "name": "Caitlyn Walls",
+    "avgRating": 1,
+    "avgDifficulty": 4,
+    "numRatings": 1,
+    "wouldTakeAgain": 0,
+    "department": "Communication"
+  },
+  "Kathleen Currie": {
+    "id": 2989153,
+    "name": "Kathleen  Chambers",
+    "avgRating": 1,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": 0,
+    "department": "Nursing"
+  },
+  "Carolyn Sirois": {
+    "id": 1823876,
+    "name": "Carolyn Riley",
+    "avgRating": 4.2,
+    "avgDifficulty": 2.3,
+    "numRatings": 7,
+    "wouldTakeAgain": 80,
+    "department": "Education"
+  },
+  "Marco Vincenzi": {
+    "found": false
+  },
+  "Erica Frank": {
+    "id": 2853413,
+    "name": "Erica Fenton",
+    "avgRating": 5,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Communication Disorders"
+  },
+  "Griffin Zimmerman": {
+    "id": 499802,
+    "name": "Tim Griffin",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 11,
+    "wouldTakeAgain": -1,
+    "department": "University Studies"
+  },
+  "Hessam Mahdavifar": {
+    "found": false
+  },
+  "William Goldman": {
+    "id": 2547659,
+    "name": "William O'Conner",
+    "avgRating": 4.3,
+    "avgDifficulty": 3.1,
+    "numRatings": 11,
+    "wouldTakeAgain": 81.8182,
+    "department": "Mathematics"
+  },
+  "Jonathan Ullman": {
+    "id": 1975603,
+    "name": "Jonathan Lehuta",
+    "avgRating": 2.6,
+    "avgDifficulty": 3.9,
+    "numRatings": 52,
+    "wouldTakeAgain": 48.9362,
+    "department": "Computer Science"
+  },
+  "Shao-wei Huang": {
+    "found": false
+  },
+  "Li Feng": {
+    "id": 688114,
+    "name": "Lan Li",
+    "avgRating": 3.2,
+    "avgDifficulty": 2.3,
+    "numRatings": 17,
+    "wouldTakeAgain": 33.3333,
+    "department": "Management"
+  },
+  "Simon Rabinovitch": {
+    "id": 660096,
+    "name": "John Simon",
+    "avgRating": 3.8,
+    "avgDifficulty": 3.9,
+    "numRatings": 24,
+    "wouldTakeAgain": 80,
+    "department": "Accounting"
+  },
+  "Jacob Nangle": {
+    "id": 2192928,
+    "name": "Jacob Strohm",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Geography"
+  },
+  "Naomi Darom": {
+    "found": false
+  },
+  "Ismet Altunkaynak": {
+    "found": false
+  },
+  "Pete Manolios": {
+    "found": false
+  },
+  "Nalini Ghuman": {
+    "found": false
+  },
+  "Xiangyun Tang": {
+    "id": 2569703,
+    "name": "Elina Tang",
+    "avgRating": 2.8,
+    "avgDifficulty": 3.1,
+    "numRatings": 12,
+    "wouldTakeAgain": 41.6667,
+    "department": "Marketing"
+  },
+  "Ashley Treni": {
+    "id": 1734869,
+    "name": "Ashley Heiberger",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Derek Petrarca": {
+    "id": 2942944,
+    "name": "Derek Shaw",
+    "avgRating": 1,
+    "avgDifficulty": 4.5,
+    "numRatings": 15,
+    "wouldTakeAgain": 0,
+    "department": "Geography"
+  },
+  "Keith Grant": {
+    "id": 538572,
+    "name": "Keith Ahlvin",
+    "avgRating": 3.4,
+    "avgDifficulty": 2.9,
+    "numRatings": 9,
+    "wouldTakeAgain": 100,
+    "department": "Journalism"
+  },
+  "Jamie Hoag": {
+    "id": 1043214,
+    "name": "Jamie Mayer",
+    "avgRating": 4.1,
+    "avgDifficulty": 3.4,
+    "numRatings": 20,
+    "wouldTakeAgain": 85.7143,
+    "department": "Communication Disorders"
+  },
+  "Michael Xiao": {
+    "id": 2096521,
+    "name": "Mike Rea",
+    "avgRating": 2.1,
+    "avgDifficulty": 3,
+    "numRatings": 8,
+    "wouldTakeAgain": 25,
+    "department": "Fine Arts"
+  },
+  "Diomedes Logothetis": {
+    "found": false
+  },
+  "Kumiko Tsuji": {
+    "found": false
+  },
+  "Parsa Rajabi": {
+    "id": 3070469,
+    "name": "Reza Rajabi",
+    "avgRating": 3,
+    "avgDifficulty": 2,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Marketing"
+  },
+  "Leigh Plant": {
+    "found": false
+  },
+  "Kristopher Cannon": {
+    "id": 1189672,
+    "name": "Kristopher Robison",
+    "avgRating": 3.6,
+    "avgDifficulty": 3.7,
+    "numRatings": 30,
+    "wouldTakeAgain": 55.5556,
+    "department": "Sociology"
+  },
+  "Akram Bayat": {
+    "found": false
+  },
+  "Emily Avery-Miller": {
+    "id": 1693892,
+    "name": "Emily Knudson-Vileseca",
+    "avgRating": 3.3,
+    "avgDifficulty": 3.8,
+    "numRatings": 11,
+    "wouldTakeAgain": 62.5,
+    "department": "Foreign Languages"
+  },
+  "Natalia Ptitsyna": {
+    "found": false
+  },
+  "Tabitha Clark": {
+    "id": 1834611,
+    "name": "Tabitha London",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Matthew Noonan": {
+    "id": 2489233,
+    "name": "Matthew Pickard",
+    "avgRating": 2.5,
+    "avgDifficulty": 4.2,
+    "numRatings": 15,
+    "wouldTakeAgain": 40,
+    "department": "Accounting"
+  },
+  "Gary Cantrell": {
+    "id": 1618401,
+    "name": "Gary Swick",
+    "avgRating": 3.7,
+    "avgDifficulty": 1.4,
+    "numRatings": 15,
+    "wouldTakeAgain": 50,
+    "department": "Education"
+  },
+  "Jonathan Andrew": {
+    "id": 3096554,
+    "name": "Andrew Ledoan",
+    "avgRating": 4,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Mathematics"
+  },
+  "Norair Khachatryan": {
+    "found": false
+  },
+  "Gregory Cloutier": {
+    "id": 2295753,
+    "name": "Gregory Barker",
+    "avgRating": 5,
+    "avgDifficulty": 1.7,
+    "numRatings": 3,
+    "wouldTakeAgain": 100,
+    "department": "University Studies"
+  },
+  "Laura Dudley": {
+    "id": 813971,
+    "name": "Laura Pittman",
+    "avgRating": 3.2,
+    "avgDifficulty": 2.7,
+    "numRatings": 17,
+    "wouldTakeAgain": 50,
+    "department": "Psychology"
+  },
+  "Kaan Onarlioglu": {
+    "found": false
+  },
+  "Eric Gerber": {
+    "id": 253188,
+    "name": "Eric Hoffman",
+    "avgRating": 4.6,
+    "avgDifficulty": 2.5,
+    "numRatings": 30,
+    "wouldTakeAgain": 92.8571,
+    "department": "English"
+  },
+  "Tehmina Amjad": {
+    "found": false
+  },
+  "Maura Miller": {
+    "found": false
+  },
+  "Roger Sparks": {
+    "id": 1297445,
+    "name": "Roger Kalisiak",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Physical Education"
+  },
+  "Alexander Martsinkovsky": {
+    "id": 1114000,
+    "name": "Alex Lee",
+    "avgRating": 4.8,
+    "avgDifficulty": 2.2,
+    "numRatings": 30,
+    "wouldTakeAgain": -1,
+    "department": "Physics"
+  },
+  "Sara Dell": {
+    "id": 1195239,
+    "name": "Sara Bianco",
+    "avgRating": 3.9,
+    "avgDifficulty": 1.9,
+    "numRatings": 8,
+    "wouldTakeAgain": -1,
+    "department": "Languages"
+  },
+  "Connie Phong": {
+    "id": 1338956,
+    "name": "Connie Fuller",
+    "avgRating": 3,
+    "avgDifficulty": 1,
+    "numRatings": 2,
+    "wouldTakeAgain": 50,
+    "department": "Business"
+  },
+  "Yu Qing Tang": {
+    "id": 2791194,
+    "name": "Shaokun Yu",
+    "avgRating": 2,
+    "avgDifficulty": 4,
+    "numRatings": 2,
+    "wouldTakeAgain": 0,
+    "department": "Accounting"
+  },
+  "Jayanth Narayanan": {
+    "found": false
+  },
+  "Rangoli Goyal": {
+    "found": false
+  },
+  "Alessio Tognetti": {
+    "found": false
+  },
+  "Nabeel Gillani": {
+    "found": false
+  },
+  "Shenghao Peng": {
+    "id": 466605,
+    "name": "Peng-Yung Woo",
+    "avgRating": 3.5,
+    "avgDifficulty": 2.3,
+    "numRatings": 7,
+    "wouldTakeAgain": -1,
+    "department": "Engineering"
+  },
+  "Garo Kerdelian": {
+    "found": false
+  },
+  "Jack Thomas": {
+    "id": 63464,
+    "name": "Jack King",
+    "avgRating": 2.9,
+    "avgDifficulty": 2.6,
+    "numRatings": 46,
+    "wouldTakeAgain": 100,
+    "department": "Social Science"
+  },
+  "Jay Gupta": {
+    "id": 1337741,
+    "name": "Jay Stravers",
+    "avgRating": 3.9,
+    "avgDifficulty": 2,
+    "numRatings": 59,
+    "wouldTakeAgain": 100,
+    "department": "Geology"
+  },
+  "Soheil Behnezhad": {
+    "found": false
+  },
+  "Brian Hanley": {
+    "id": 919191,
+    "name": "Brian Sandberg",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.5,
+    "numRatings": 20,
+    "wouldTakeAgain": 66.6667,
+    "department": "History"
+  },
+  "Matthew Jones": {
+    "id": 494797,
+    "name": "Matthew Pamental",
+    "avgRating": 2.5,
+    "avgDifficulty": 3.8,
+    "numRatings": 53,
+    "wouldTakeAgain": 100,
+    "department": "Philosophy"
+  },
+  "Brinda Mehta": {
+    "found": false
+  },
+  "Patricia Davidson": {
+    "id": 1313390,
+    "name": "Patricia Skarbinski",
+    "avgRating": 4.5,
+    "avgDifficulty": 2.8,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "Theater"
+  },
+  "Hanai Sadaka": {
+    "found": false
+  },
+  "Jose Gustavo Bravo Flores": {
+    "id": 2296719,
+    "name": "Jose Bello-Cruz",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.6,
+    "numRatings": 26,
+    "wouldTakeAgain": 50,
+    "department": "Mathematics"
+  },
+  "Domenic Corey": {
+    "id": 1969664,
+    "name": "Corey Rolling",
+    "avgRating": 2.5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Physical Education"
+  },
+  "Joan Parkin": {
+    "id": 814093,
+    "name": "Joan Quinn",
+    "avgRating": 1.7,
+    "avgDifficulty": 3.4,
+    "numRatings": 17,
+    "wouldTakeAgain": -1,
+    "department": "Nutrition & Foods"
+  },
+  "Samuel Munoz": {
+    "id": 2344944,
+    "name": "Samuel Baker",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Business"
+  },
+  "Richard Hoshino": {
+    "id": 65588,
+    "name": "Richard Born",
+    "avgRating": 3.9,
+    "avgDifficulty": 3.6,
+    "numRatings": 10,
+    "wouldTakeAgain": -1,
+    "department": "Business"
+  },
+  "Lisa Morde": {
+    "id": 151813,
+    "name": "Lisa Finkelstein",
+    "avgRating": 4.5,
+    "avgDifficulty": 2.3,
+    "numRatings": 67,
+    "wouldTakeAgain": 96.1538,
+    "department": "Psychology"
+  },
+  "Zepei Yang": {
+    "found": false
+  },
+  "Judene Thomas": {
+    "id": 456068,
+    "name": "Thomas Gilbert",
+    "avgRating": 1.4,
+    "avgDifficulty": 4.8,
+    "numRatings": 138,
+    "wouldTakeAgain": 3.5714,
+    "department": "Chemistry"
+  },
+  "Stephanie Young": {
+    "id": 1000448,
+    "name": "Stephanie Henagan",
+    "avgRating": 3,
+    "avgDifficulty": 2.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 0,
+    "department": "Management"
+  },
+  "Weiyan Shi": {
+    "id": 3062812,
+    "name": "Shicheng Chen",
+    "avgRating": 5,
+    "avgDifficulty": 3.3,
+    "numRatings": 4,
+    "wouldTakeAgain": 100,
+    "department": "Health Science"
+  },
+  "Xuwen Zhu": {
+    "id": 399500,
+    "name": "Zhuan Ye",
+    "avgRating": 4.2,
+    "avgDifficulty": 3.3,
+    "numRatings": 23,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "John Olawepo": {
+    "id": 1935746,
+    "name": "John Strid",
+    "avgRating": 3.1,
+    "avgDifficulty": 3.5,
+    "numRatings": 6,
+    "wouldTakeAgain": 40,
+    "department": "English"
+  },
+  "Kadin Prideaux": {
+    "found": false
+  },
+  "Ilmi Yoon": {
+    "found": false
+  },
+  "Egon Schulte": {
+    "found": false
+  },
+  "Jesse Stern": {
+    "id": 1724137,
+    "name": "Jesse Segers",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": -1,
+    "department": "Management"
+  },
+  "Enrique Moreno": {
+    "id": 2203369,
+    "name": "Valerie Moreno-Tucker",
+    "avgRating": 5,
+    "avgDifficulty": 2.6,
+    "numRatings": 5,
+    "wouldTakeAgain": 100,
+    "department": "Health  Human Services"
+  },
+  "Elizabeth Britt": {
+    "id": 2454619,
+    "name": "Elizabeth Duhn",
+    "avgRating": 5,
+    "avgDifficulty": 3,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Nursing"
+  },
+  "Alia Yusaini": {
+    "found": false
+  },
+  "Julia Hechtman": {
+    "id": 2929138,
+    "name": "Julia  Gutierez",
+    "avgRating": 4,
+    "avgDifficulty": 3,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Ethnic Studies"
+  },
+  "Jessica Pelz": {
+    "id": 1274189,
+    "name": "Jessica Guzman",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Amir Tahmasebi Maraghoosh": {
+    "found": false
+  },
+  "Stavros Trypakis": {
+    "found": false
+  },
+  "Megan Buntin": {
+    "id": 2450566,
+    "name": "Megan Montgomery",
+    "avgRating": 4.2,
+    "avgDifficulty": 3.2,
+    "numRatings": 5,
+    "wouldTakeAgain": 80,
+    "department": "Communication"
+  },
+  "Elizabeth Wilson": {
+    "id": 2454619,
+    "name": "Elizabeth Duhn",
+    "avgRating": 5,
+    "avgDifficulty": 3,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Nursing"
+  },
+  "Ruizhi Dong": {
+    "found": false
+  },
+  "Emily Stimac": {
+    "id": 983833,
+    "name": "Emily Kingery",
+    "avgRating": 4,
+    "avgDifficulty": 2.2,
+    "numRatings": 10,
+    "wouldTakeAgain": -1,
+    "department": "English"
+  },
+  "Bruce Ronkin": {
+    "id": 1006022,
+    "name": "Bruce Novak",
+    "avgRating": 2.3,
+    "avgDifficulty": 3.7,
+    "numRatings": 3,
+    "wouldTakeAgain": -1,
+    "department": "Education"
+  },
+  "Allison Bauer": {
+    "id": 3085998,
+    "name": "Allison Macheck",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "Mark Bonicillo": {
+    "id": 2436028,
+    "name": "Mark Mellon",
+    "avgRating": 4.6,
+    "avgDifficulty": 3.3,
+    "numRatings": 8,
+    "wouldTakeAgain": 87.5,
+    "department": "Accounting"
+  },
+  "Yun Fu": {
+    "id": 2142738,
+    "name": "Furkan Gur",
+    "avgRating": 3.6,
+    "avgDifficulty": 2.2,
+    "numRatings": 5,
+    "wouldTakeAgain": 60,
+    "department": "Management"
+  },
+  "Renee Miller": {
+    "id": 1614376,
+    "name": "Renee Powers",
+    "avgRating": 4.5,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": -1,
+    "department": "Communication"
+  },
+  "Huaizu Jiang": {
+    "found": false
+  },
+  "Casondra Sobieralski": {
+    "found": false
+  },
+  "Kristin McCambridge": {
+    "id": 1055187,
+    "name": "Kristin McCullough",
+    "avgRating": 4.5,
+    "avgDifficulty": 3.3,
+    "numRatings": 7,
+    "wouldTakeAgain": 100,
+    "department": "Mathematics"
+  },
+  "Mark Wells": {
+    "id": 2436028,
+    "name": "Mark Mellon",
+    "avgRating": 4.6,
+    "avgDifficulty": 3.3,
+    "numRatings": 8,
+    "wouldTakeAgain": 87.5,
+    "department": "Accounting"
+  },
+  "Michael Everett": {
+    "id": 1048473,
+    "name": "Michael Eraas",
+    "avgRating": 4.5,
+    "avgDifficulty": 2.4,
+    "numRatings": 78,
+    "wouldTakeAgain": 84.6154,
+    "department": "Mathematics"
+  },
+  "Taehyun Ko": {
+    "id": 63396,
+    "name": "Joanna Kot",
+    "avgRating": 4,
+    "avgDifficulty": 3.2,
+    "numRatings": 19,
+    "wouldTakeAgain": 100,
+    "department": "Languages"
+  },
+  "Timothy Brown": {
+    "id": 1447249,
+    "name": "Timothy Hagen",
+    "avgRating": 4.5,
+    "avgDifficulty": 3,
+    "numRatings": 26,
+    "wouldTakeAgain": 80,
+    "department": "Chemistry"
+  },
+  "Hyonho Lee": {
+    "id": 514684,
+    "name": "Lee Sunderlin",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.6,
+    "numRatings": 55,
+    "wouldTakeAgain": 17.6471,
+    "department": "Chemistry"
+  },
+  "James Marcotte": {
+    "id": 2110856,
+    "name": "James Cohen",
+    "avgRating": 3.5,
+    "avgDifficulty": 2.6,
+    "numRatings": 14,
+    "wouldTakeAgain": 57.1429,
+    "department": "Education"
+  },
+  "Alina Oprea": {
+    "found": false
+  },
+  "Lee-Peng Lee": {
+    "id": 514684,
+    "name": "Lee Sunderlin",
+    "avgRating": 2.4,
+    "avgDifficulty": 3.6,
+    "numRatings": 55,
+    "wouldTakeAgain": 17.6471,
+    "department": "Chemistry"
+  },
+  "Ghita Amor-Tijani": {
+    "found": false
+  },
+  "Kyle Courtney": {
+    "id": 2617253,
+    "name": "Kyle Beckwith",
+    "avgRating": 5,
+    "avgDifficulty": 2.5,
+    "numRatings": 2,
+    "wouldTakeAgain": 100,
+    "department": "Literacy"
+  },
+  "Philip Bogden": {
+    "id": 1337745,
+    "name": "Philip Young",
+    "avgRating": 2.2,
+    "avgDifficulty": 3.6,
+    "numRatings": 13,
+    "wouldTakeAgain": 60,
+    "department": "Geography"
+  },
+  "Fox Zarow": {
+    "id": 229770,
+    "name": "Barb Fox",
+    "avgRating": 4.2,
+    "avgDifficulty": 2.9,
+    "numRatings": 69,
+    "wouldTakeAgain": 66.6667,
+    "department": "Accounting"
+  },
+  "Ankita Sarkar": {
+    "id": 1481337,
+    "name": "Suchitrita Sarkar",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "numRatings": 0,
+    "wouldTakeAgain": -1,
+    "department": "Mathematics"
+  },
+  "Nicole Castor": {
+    "id": 3009233,
+    "name": "Nicole  Scheuermann ",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "numRatings": 1,
+    "wouldTakeAgain": 100,
+    "department": "Biology"
+  },
+  "Assad Fotovatian": {
+    "found": false
+  },
+  "Andrieta Pritchett": {
+    "found": false
+  },
+  "Camille Gomez-Laberge": {
+    "found": false
+  }
+}

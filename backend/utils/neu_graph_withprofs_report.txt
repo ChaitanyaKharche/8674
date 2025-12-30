@@ -1,0 +1,28 @@
+Curriculum Graph Analysis Report
+======================================================================
+Generated: 2025-12-09T16:20:14.574008
+
+STATISTICS
+----------------------------------------------------------------------
+Original courses: 506
+Cleaned courses: 94
+Removal rate: 81.4%
+Total prerequisites: 141
+Avg incoming edges: 1.50
+Avg outgoing edges: 1.50
+
+QUALITY METRICS
+----------------------------------------------------------------------
+Quality Score: 83.5/100
+Isolated nodes: 15
+Cycles detected: 0
+Connected components: 16
+
+SUBJECT BREAKDOWN
+----------------------------------------------------------------------
+  CS: 28
+  CY: 4
+  DS: 11
+  ENGW: 4
+  MATH: 35
+  PHYS: 12
