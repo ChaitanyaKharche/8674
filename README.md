@@ -1,4 +1,4 @@
-# CurriculAI (NEU Curriculum Optimizer)
+## CurriculAI - NEU Curriculum Optimizer (Still Ongoing/Building)
 
 A curriculum planning tool that:
 1) Scrapes Northeastern course catalog data for selected terms and subjects  
